@@ -722,6 +722,12 @@
 	<string>florin.glif</string>
 	<key>four</key>
 	<string>four.glif</string>
+	<key>four.inferior</key>
+	<string>four_inferior.glif</string>
+	<key>four.superior</key>
+	<string>four_superior.glif</string>
+	<key>fraction</key>
+	<string>fraction.glif</string>
 	<key>franc</key>
 	<string>franc.glif</string>
 	<key>g</key>
@@ -882,6 +888,16 @@
 	<string>omacron.glif</string>
 	<key>one</key>
 	<string>one.glif</string>
+	<key>one.inferior</key>
+	<string>one_inferior.glif</string>
+	<key>one.superior</key>
+	<string>one_superior.glif</string>
+	<key>onehalf</key>
+	<string>onehalf.glif</string>
+	<key>onequarter</key>
+	<string>onequarter.glif</string>
+	<key>onethird</key>
+	<string>onethird.glif</string>
 	<key>ordfeminine</key>
 	<string>ordfeminine.glif</string>
 	<key>ordmasculine</key>
@@ -998,6 +1014,12 @@
 	<string>thorn.glif</string>
 	<key>three</key>
 	<string>three.glif</string>
+	<key>three.inferior</key>
+	<string>three_inferior.glif</string>
+	<key>three.superior</key>
+	<string>three_superior.glif</string>
+	<key>threequarters</key>
+	<string>threequarters.glif</string>
 	<key>tilde</key>
 	<string>tilde.glif</string>
 	<key>tilde.cap</key>
@@ -1006,6 +1028,10 @@
 	<string>trademark.glif</string>
 	<key>two</key>
 	<string>two.glif</string>
+	<key>two.inferior</key>
+	<string>two_inferior.glif</string>
+	<key>two.superior</key>
+	<string>two_superior.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>uacute</key>
@@ -1024,6 +1050,8 @@
 	<string>umacron.glif</string>
 	<key>underscore</key>
 	<string>underscore.glif</string>
+	<key>uni00AD</key>
+	<string>uni00A_D_.glif</string>
 	<key>uni0162</key>
 	<string>uni0162.glif</string>
 	<key>uni0163</key>
@@ -1060,6 +1088,8 @@
 	<string>uni021A_.glif</string>
 	<key>uni021B</key>
 	<string>uni021B_.glif</string>
+	<key>uni02C9</key>
+	<string>uni02C_9.glif</string>
 	<key>uni0307</key>
 	<string>uni0307.glif</string>
 	<key>uni0900</key>
@@ -1598,8 +1628,16 @@
 	<string>uni20A_6.glif</string>
 	<key>uni20AA</key>
 	<string>uni20A_A_.glif</string>
+	<key>uni20B1</key>
+	<string>uni20B_1.glif</string>
+	<key>uni20B2</key>
+	<string>uni20B_2.glif</string>
+	<key>uni20B5</key>
+	<string>uni20B_5.glif</string>
 	<key>uni20B9</key>
 	<string>uni20B_9.glif</string>
+	<key>uni20BA</key>
+	<string>uni20B_A_.glif</string>
 	<key>uni2113</key>
 	<string>uni2113.glif</string>
 	<key>uni2120</key>

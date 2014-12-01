@@ -828,6 +828,25 @@
 		<string>aring</string>
 		<string>abreve</string>
 		<string>ohungarumlaut</string>
+		<string>uni02C9</string>
+		<string>uni00AD</string>
+		<string>onehalf</string>
+		<string>onequarter</string>
+		<string>threequarters</string>
+		<string>fraction</string>
+		<string>one.superior</string>
+		<string>two.superior</string>
+		<string>three.superior</string>
+		<string>four.superior</string>
+		<string>one.inferior</string>
+		<string>two.inferior</string>
+		<string>three.inferior</string>
+		<string>four.inferior</string>
+		<string>onethird</string>
+		<string>uni20B1</string>
+		<string>uni20B2</string>
+		<string>uni20B5</string>
+		<string>uni20BA</string>
 	</array>
 </dict>
 </plist>

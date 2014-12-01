@@ -7,7 +7,7 @@
 	<key>capHeight</key>
 	<integer>658</integer>
 	<key>copyright</key>
-	<string>Copyright (c) 2000, Modular Infotech, Pune, INDIA. Latin Portions added 2014 by Eben Sorkin Sorkin Type Co, Boston MA, USA</string>
+	<string>Copyright (c) 2000, Modular Infotech, Pune, INDIA. Latin Portions added and Devanagari altered 2014 by Eben Sorkin Sorkin Type Co, Boston MA, USA</string>
 	<key>descender</key>
 	<integer>-521</integer>
 	<key>familyName</key>
@@ -29,9 +29,13 @@
 	<key>openTypeNameCompatibleFullName</key>
 	<string>Dekko</string>
 	<key>openTypeNameDesigner</key>
-	<string>Multiple</string>
+	<string>Eben Sorkin ( sorkintype@gmail.com )</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>sorkintype.com</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Eben Sorkin</string>
+	<key>openTypeNameManufacturerURL</key>
+	<string>sorkintype.com</string>
 	<key>openTypeNamePreferredFamilyName</key>
 	<string>Dekko</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
@@ -44,6 +48,8 @@
 	<array>
 		<integer>0</integer>
 		<integer>1</integer>
+		<integer>4</integer>
+		<integer>7</integer>
 		<integer>29</integer>
 	</array>
 	<key>openTypeOS2FamilyClass</key>
@@ -106,8 +112,10 @@
 		<integer>15</integer>
 		<integer>29</integer>
 		<integer>31</integer>
+		<integer>32</integer>
 		<integer>33</integer>
 		<integer>35</integer>
+		<integer>36</integer>
 		<integer>37</integer>
 		<integer>38</integer>
 		<integer>45</integer>
@@ -158,15 +166,20 @@
 	<key>postscriptOtherBlues</key>
 	<array>
 		<integer>-277</integer>
-		<integer>-218</integer>
+		<integer>-217</integer>
 	</array>
 	<key>postscriptSlantAngle</key>
 	<real>-0.0</real>
 	<key>postscriptStemSnapH</key>
 	<array>
+		<integer>64</integer>
+		<integer>57</integer>
+		<integer>77</integer>
 	</array>
 	<key>postscriptStemSnapV</key>
 	<array>
+		<integer>71</integer>
+		<integer>53</integer>
 	</array>
 	<key>postscriptUnderlinePosition</key>
 	<integer>-82</integer>

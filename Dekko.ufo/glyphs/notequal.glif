@@ -11,6 +11,18 @@
       <point x="198" y="-12"/>
       <point x="221" y="-1"/>
       <point x="230" y="13" type="curve"/>
+      <point x="292" y="140" type="line"/>
+      <point x="481" y="140" type="line"/>
+      <point x="509" y="143"/>
+      <point x="577" y="190"/>
+      <point x="521" y="194" type="curve"/>
+      <point x="319" y="194" type="line"/>
+      <point x="381" y="320" type="line"/>
+      <point x="481" y="320" type="line"/>
+      <point x="509" y="323"/>
+      <point x="577" y="370"/>
+      <point x="521" y="374" type="curve"/>
+      <point x="407" y="374" type="line"/>
       <point x="464" y="488" type="line" smooth="yes"/>
       <point x="475" y="510"/>
       <point x="466" y="518"/>
@@ -18,7 +30,18 @@
       <point x="429" y="518"/>
       <point x="399" y="503"/>
       <point x="389" y="487" type="curve"/>
+      <point x="335" y="374" type="line"/>
+      <point x="145" y="374" type="line"/>
+      <point x="128" y="370"/>
+      <point x="73" y="339"/>
+      <point x="118" y="320" type="curve"/>
+      <point x="309" y="320" type="line"/>
+      <point x="249" y="194" type="line"/>
+      <point x="145" y="194" type="line"/>
+      <point x="128" y="190"/>
+      <point x="73" y="160"/>
+      <point x="118" y="140" type="curve"/>
+      <point x="223" y="140" type="line"/>
     </contour>
-    <component base="equal"/>
   </outline>
 </glyph>

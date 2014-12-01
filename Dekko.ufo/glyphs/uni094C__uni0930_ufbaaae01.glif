@@ -3,6 +3,9 @@
   <advance width="300"/>
   <outline>
     <contour>
+      <point x="324" y="668" type="line" smooth="yes"/>
+      <point x="332" y="661"/>
+      <point x="341" y="659"/>
       <point x="348" y="659" type="curve" smooth="yes"/>
       <point x="350" y="659"/>
       <point x="353" y="659"/>
@@ -28,9 +31,6 @@
       <point x="281" y="707"/>
       <point x="287" y="699"/>
       <point x="301" y="686" type="curve"/>
-      <point x="324" y="668" type="line" smooth="yes"/>
-      <point x="332" y="661"/>
-      <point x="341" y="659"/>
     </contour>
     <component base="uni094C_uni0930_uni094D"/>
   </outline>
