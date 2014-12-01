@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni1CDA" format="1">
+  <advance width="0"/>
+  <unicode hex="1CDA"/>
+  <outline>
+    <contour>
+      <point x="-187" y="624" type="line"/>
+      <point x="-187" y="874" type="line"/>
+      <point x="-241" y="874" type="line"/>
+      <point x="-241" y="624" type="line"/>
+    </contour>
+    <contour>
+      <point x="-39" y="624" type="line"/>
+      <point x="-39" y="874" type="line"/>
+      <point x="-91" y="874" type="line"/>
+      <point x="-91" y="624" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="j" format="1">
+  <advance width="250"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="90" y="808" type="move" name="top"/>
+    </contour>
+    <component base="dotaccent" xOffset="43"/>
+    <component base="dotlessj"/>
+  </outline>
+</glyph>

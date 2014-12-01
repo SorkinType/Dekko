@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0951.abvs" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-105" y="619" type="line"/>
+      <point x="-105" y="890" type="line"/>
+      <point x="-156" y="890" type="line"/>
+      <point x="-156" y="619" type="line"/>
+    </contour>
+  </outline>
+</glyph>
