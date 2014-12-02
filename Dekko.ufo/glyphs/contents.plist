@@ -1188,6 +1188,8 @@
 	<string>uni091A__uni094D_.glif</string>
 	<key>uni091B</key>
 	<string>uni091B_.glif</string>
+	<key>uni091B094D</key>
+	<string>uni091B_094D_.glif</string>
 	<key>uni091B_uni094D</key>
 	<string>uni091B__uni094D_.glif</string>
 	<key>uni091C</key>
@@ -1316,6 +1318,8 @@
 	<string>uni0930_uni094D_.glif</string>
 	<key>uni0930_uni094D.abvs</key>
 	<string>uni0930_uni094D__abvs.glif</string>
+	<key>uni0930_uni094D2.abvs</key>
+	<string>uni0930_uni094D_2_abvs.glif</string>
 	<key>uni0930_uni094D_uni0902</key>
 	<string>uni0930_uni094D__uni0902.glif</string>
 	<key>uni0930_uni094D_uni0902.abvs</key>
@@ -1642,6 +1646,8 @@
 	<string>uni2113.glif</string>
 	<key>uni2120</key>
 	<string>uni2120.glif</string>
+	<key>uni2215</key>
+	<string>uni2215.glif</string>
 	<key>uni25CC</key>
 	<string>uni25C_C_.glif</string>
 	<key>uogonek</key>

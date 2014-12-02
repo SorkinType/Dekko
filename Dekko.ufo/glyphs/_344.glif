@@ -2,12 +2,7 @@
 <glyph name="_344" format="1">
   <advance width="101"/>
   <outline>
-    <contour>
-      <point x="-3" y="556" type="line"/>
-      <point x="103" y="556" type="line"/>
-      <point x="103" y="620" type="line"/>
-      <point x="-3" y="620" type="line"/>
-    </contour>
     <component base="uni0945.abvs" xOffset="262" yOffset="-23"/>
+    <component base="_197"/>
   </outline>
 </glyph>

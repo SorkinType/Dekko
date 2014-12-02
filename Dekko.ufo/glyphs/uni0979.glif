@@ -3,48 +3,9 @@
   <advance width="800"/>
   <unicode hex="0979"/>
   <outline>
-    <contour>
-      <point x="353" y="-21" type="curve" smooth="yes"/>
-      <point x="353" y="-48"/>
-      <point x="379" y="-76"/>
-      <point x="412" y="-76" type="curve" smooth="yes"/>
-      <point x="436" y="-76"/>
-      <point x="462" y="-54"/>
-      <point x="462" y="-21" type="curve" smooth="yes"/>
-      <point x="462" y="5"/>
-      <point x="435" y="28"/>
-      <point x="412" y="28" type="curve" smooth="yes"/>
-      <point x="380" y="28"/>
-      <point x="353" y="4"/>
-    </contour>
-    <contour>
-      <point x="165" y="-21" type="curve" smooth="yes"/>
-      <point x="165" y="-54"/>
-      <point x="192" y="-76"/>
-      <point x="220" y="-76" type="curve" smooth="yes"/>
-      <point x="245" y="-76"/>
-      <point x="273" y="-54"/>
-      <point x="273" y="-21" type="curve" smooth="yes"/>
-      <point x="273" y="5"/>
-      <point x="244" y="28"/>
-      <point x="220" y="28" type="curve" smooth="yes"/>
-      <point x="194" y="28"/>
-      <point x="165" y="5"/>
-    </contour>
-    <contour>
-      <point x="269" y="-151" type="curve" smooth="yes"/>
-      <point x="269" y="-181"/>
-      <point x="295" y="-205"/>
-      <point x="322" y="-205" type="curve" smooth="yes"/>
-      <point x="347" y="-205"/>
-      <point x="376" y="-181"/>
-      <point x="376" y="-151" type="curve" smooth="yes"/>
-      <point x="376" y="-122"/>
-      <point x="337" y="-102"/>
-      <point x="312" y="-102" type="curve" smooth="yes"/>
-      <point x="286" y="-102"/>
-      <point x="269" y="-122"/>
-    </contour>
     <component base="uni091C"/>
+    <component base="uni093C" xOffset="426" yOffset="61"/>
+    <component base="uni093C" xOffset="339" yOffset="-66"/>
+    <component base="uni093C" xOffset="236" yOffset="61"/>
   </outline>
 </glyph>

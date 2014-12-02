@@ -2,6 +2,64 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>R150</key>
+	<array>
+		<string>uni0905</string>
+		<string>uni0906</string>
+		<string>uni0935</string>
+		<string>uni0932</string>
+	</array>
+	<key>R180</key>
+	<array>
+		<string>uni0907</string>
+		<string>uni0908</string>
+		<string>uni0909</string>
+	</array>
+	<key>R240</key>
+	<array>
+		<string>uni0933</string>
+		<string>uni0934</string>
+	</array>
+	<key>R270</key>
+	<array>
+		<string>uni090C</string>
+	</array>
+	<key>R460</key>
+	<array>
+		<string>uni090A</string>
+	</array>
+	<key>_R360</key>
+	<array>
+		<string>uni0915</string>
+	</array>
+	<key>_ddone</key>
+	<array>
+		<string>uni0900'</string>
+		<string>uni0955</string>
+		<string>uni0930_uni094D</string>
+		<string>uni0930_uni094D_uni0902</string>
+		<string>uni1CDA</string>
+		<string>uni0901</string>
+		<string>uni0902</string>
+		<string>uni0945</string>
+		<string>uni0946</string>
+		<string>uni0947</string>
+		<string>uni0948</string>
+		<string>uni0901.abvs</string>
+	</array>
+	<key>_emdash</key>
+	<array>
+		<string>emdash'</string>
+		<string>endash</string>
+		<string>hyphen</string>
+	</array>
+	<key>_um</key>
+	<array>
+		<string>uni0941'</string>
+		<string>uni0942</string>
+		<string>uni0943</string>
+		<string>uni0944</string>
+	</array>
 	<key>abvs1</key>
 	<array>
 		<string>uni090A</string>
@@ -19,6 +77,7 @@
 		<string>_219</string>
 		<string>_220</string>
 		<string>_257</string>
+		<string>uni0919</string>
 	</array>
 	<key>abvs2</key>
 	<array>
@@ -38,6 +97,10 @@
 		<string>uni0948_uni0930_uni094D_uni0902</string>
 		<string>uni0930_uni094D</string>
 		<string>uni0930_uni094D_uni0902</string>
+	</array>
+	<key>abvs3</key>
+	<array>
+		<string>uni093E</string>
 	</array>
 	<key>blws1</key>
 	<array>
@@ -288,6 +351,10 @@
 		<string>uni095D</string>
 		<string>uni095E</string>
 		<string>uni095F</string>
+	</array>
+	<key>pres5</key>
+	<array>
+		<string>uni093E</string>
 	</array>
 	<key>psts1</key>
 	<array>

@@ -1,30 +1,18 @@
+languagesystem DFLT dflt;
 languagesystem deva dflt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+languagesystem dev2 dflt;
+languagesystem dev2 MAR ;
+languagesystem grek dflt;
+languagesystem latn dflt;
+languagesystem latn MOL ;
+languagesystem latn ROM ;
+languagesystem latn CRT ;
+languagesystem latn AZE ;
+languagesystem latn TRK ;
 
 feature aalt{
   feature locl;
+  feature liga;
 } aalt;
 feature locl { # Localized Forms
  script latn; # Latin
@@ -48,7 +36,13 @@ lookup locl6 {
     sub i by i.dot;
 } locl;
 feature liga { # Standard Ligatures
- script latn; # Latin
+ # DEFAULT
+    sub f f i by f_f_i;
+    sub f f l by f_f_l;
+    sub f f by f_f;
+    sub f i by f_i;
+    sub f l by f_l;
+  script latn; # Latin
     sub f f i by f_f_i;
     sub f f l by f_f_l;
     sub f f by f_f;
@@ -65,7 +59,7 @@ lookup liga55 {
 lookup liga56 {
     sub f_f_i by f_f_i_dflt;
 } liga56;
- language MOL ; # Moldavian
+language MOL ; # Moldavian
  language ROM ; # Romanian
  language CRT ; # Crimean Tatar
 } liga;
@@ -218,6 +212,7 @@ lookup pres15 {
 lookup pres16 {
     sub @pres2 [uni0940 uni0940_uni0902 uni0940_uni0930_uni094D uni0940_uni0930_uni094D_uni0902]' by [uni0940.pres uni0940.pres_uni0902 uni0940.pres_uni0930_uni094D uni0940.pres_uni0930_uni094D_uni0902];
 } pres16;
+
 } pres;
 feature half { # Half Forms
  script deva; # Devanagari
@@ -289,7 +284,9 @@ lookup half9 {
 } half;
 feature rphf { # Reph Forms
  script deva; # Devanagari
-    sub uni0930 uni094D by uni0930_uni094D;
+    sub uni0930 uni094D by uni0930_uni094D.abvs;
+    
+    
 } rphf;
 feature blwf { # Below-base Forms
  script deva; # Devanagari
@@ -337,6 +334,9 @@ lookup abvs19 {
 lookup abvs24 {
     sub @abvs1 @abvs2' by [uni0901.abvs uni0902.abvs uni0945.abvs uni0946.abvs uni0947.abvs uni0948.abvs uni0951.abvs uni1CDA.abvs uni0947_uni0902.abvs uni0947_uni0930_uni094D.abvs uni0947_uni0930_uni094D_uni0902.abvs uni0948_uni0902.abvs uni0948_uni0930_uni094D.abvs uni0948_uni0930_uni094D_uni0902.abvs uni0930_uni094D.abvs uni0930_uni094D_uni0902.abvs];
 } abvs24;
+
+
+
 lookup abvs25 {
     sub [uni0940 uni0946 uni0947 uni0948 uni094A uni094B uni094C uni0940.pres] [uni0901 uni0945]' by [_345 _344];
 } abvs25;
@@ -429,33 +429,65 @@ lookup psts23 {
     sub _133' @psts1 by _306;
 } psts23;
 lookup psts31 {
-    sub [uni0941.blws uni0942.blws _325 uni0943.blws uni0944.blws uni094D.blws] [uni0901 uni0902 uni0945 uni0930_uni094D uni0930_uni094D_uni0902]' by [uni0901.abvs uni0902.abvs uni0945.abvs uni0930_uni094D.abvs uni0930_uni094D_uni0902.abvs];
+    sub [uni093F uni0941.blws uni0942.blws _325 uni0943.blws uni0944.blws uni094D.blws] [uni0901 uni0902 uni0945 uni0930_uni094D uni0930_uni094D_uni0902]' by [uni0901.abvs uni0902.abvs uni0945.abvs uni0930_uni094D.abvs uni0930_uni094D_uni0902.abvs];
 } psts31;
 lookup psts32 {
     sub [uni0930_uni0941 uni0930_uni0942] uni0902' by uni0902.abvs;
 } psts32;
 } psts;
+feature frac { # Fractions
+ # DEFAULT
+    sub one slash two by onehalf;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+ script deva; # Devanagari 
+    sub one slash two by onehalf;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+ script dev2; # Devanagari v.2
+    sub one slash two by onehalf;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+ language MAR ; # Marathi
+ script grek; # Greek
+    sub one slash two by onehalf;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+ script latn; # Latin
+    sub one slash two by onehalf;
+    sub one slash four by onequarter;
+    sub three slash four by threequarters;
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+ language CRT ; # Crimean Tatar
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+} frac;
+feature kern { # Kerning
+ # DEFAULT
+lookup kern1 {
+ 
+pos T o -90;
+pos uni093E uni0901 30;
+
+
+pos [V] @_emdash -70;
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+} kern1;
+ script deva; # Devanagari
+  script dev2; # Devanagari v.2
+lookup kern1;
+ language MAR ; # Marathi
+ script grek; # Greek
+lookup kern1;
+ script latn; # Latin
+lookup kern1;
+ language MOL ; # Moldavian
+ language ROM ; # Romanian
+ language CRT ; # Crimean Tatar
+ language AZE ; # Azeri
+ language TRK ; # Turkish
+ 
+} kern;
