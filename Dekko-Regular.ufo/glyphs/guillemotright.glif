@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotright" format="1">
+  <advance width="628"/>
+  <unicode hex="00BB"/>
+  <outline>
+    <contour>
+      <point x="235" y="656" type="move" name="_top"/>
+    </contour>
+    <component base="guilsinglleft" xScale="-1.0" yScale="-1.0" xOffset="403" yOffset="445"/>
+    <component base="guilsinglleft" xScale="-1.0" yScale="-1.0" xOffset="628" yOffset="455"/>
+  </outline>
+</glyph>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="i.cy" format="1">
+  <advance width="183"/>
+  <outline>
+    <contour>
+      <point x="78" y="656" type="move" name="top"/>
+    </contour>
+    <component base="i"/>
+  </outline>
+</glyph>

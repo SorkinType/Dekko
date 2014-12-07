@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="628"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="142" y="656" type="move" name="_top"/>
+    </contour>
+    <component base="guilsinglleft"/>
+    <component base="guilsinglleft" xOffset="225" yOffset="10"/>
+  </outline>
+</glyph>
