@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dieresiscomb_caroncomb.cap" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-114" y="1421" type="curve" name="hr00" smooth="yes"/>
+      <point x="-114" y="1510"/>
+      <point x="-159" y="1557"/>
+      <point x="-173" y="1557" type="curve" smooth="yes"/>
+      <point x="-218" y="1557"/>
+      <point x="-289" y="1499"/>
+      <point x="-289" y="1426" type="curve" smooth="yes"/>
+      <point x="-289" y="1328"/>
+      <point x="-253" y="1291"/>
+      <point x="-181" y="1291" type="curve" smooth="yes"/>
+      <point x="-146" y="1291"/>
+      <point x="-114" y="1337"/>
+    </contour>
+    <contour>
+      <point x="167" y="1546" type="curve" smooth="yes"/>
+      <point x="103" y="1546"/>
+      <point x="81" y="1480"/>
+      <point x="81" y="1404" type="curve" smooth="yes"/>
+      <point x="81" y="1327"/>
+      <point x="105" y="1291"/>
+      <point x="163" y="1291" type="curve" smooth="yes"/>
+      <point x="203" y="1291"/>
+      <point x="256" y="1353"/>
+      <point x="256" y="1414" type="curve" smooth="yes"/>
+      <point x="256" y="1470"/>
+      <point x="210" y="1546"/>
+    </contour>
+    <contour>
+      <point x="-215" y="1976" type="curve" smooth="yes"/>
+      <point x="-244" y="1976"/>
+      <point x="-284" y="1930"/>
+      <point x="-284" y="1854" type="curve" smooth="yes"/>
+      <point x="-284" y="1805"/>
+      <point x="-244" y="1790"/>
+      <point x="-202" y="1775" type="curve" smooth="yes"/>
+      <point x="-177" y="1767"/>
+      <point x="-140" y="1742"/>
+      <point x="-66" y="1666" type="curve"/>
+      <point x="-45" y="1651"/>
+      <point x="-23" y="1646"/>
+      <point x="-5" y="1644" type="curve"/>
+      <point x="57" y="1644"/>
+      <point x="167" y="1778"/>
+      <point x="266" y="1793" type="curve" smooth="yes"/>
+      <point x="297" y="1796"/>
+      <point x="329" y="1843"/>
+      <point x="329" y="1899" type="curve" smooth="yes"/>
+      <point x="329" y="1946"/>
+      <point x="295" y="1986"/>
+      <point x="266" y="1986" type="curve" smooth="yes"/>
+      <point x="177" y="1986"/>
+      <point x="81" y="1907"/>
+      <point x="-5" y="1800" type="curve"/>
+      <point x="-69" y="1879"/>
+      <point x="-146" y="1976"/>
+    </contour>
+    <contour>
+      <point x="20" y="1515" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="1087"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="967" y="-5" type="line"/>
+      <point x="998" y="-2"/>
+      <point x="1044" y="4"/>
+      <point x="1044" y="95" type="curve" smooth="yes"/>
+      <point x="1044" y="163"/>
+      <point x="1028" y="189"/>
+      <point x="1003" y="195" type="curve"/>
+      <point x="932" y="401"/>
+      <point x="800" y="786"/>
+      <point x="716" y="1058" type="curve" smooth="yes"/>
+      <point x="698" y="1116"/>
+      <point x="689" y="1159"/>
+      <point x="639" y="1159" type="curve" smooth="yes"/>
+      <point x="450" y="1159"/>
+      <point x="463" y="960"/>
+      <point x="189" y="462" type="curve"/>
+      <point x="105" y="329" type="line" smooth="yes"/>
+      <point x="71" y="274"/>
+      <point x="43" y="228"/>
+      <point x="43" y="205" type="curve" smooth="yes"/>
+      <point x="43" y="146"/>
+      <point x="88" y="-5"/>
+      <point x="150" y="-5" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="197" y="187" type="curve"/>
+      <point x="401" y="607"/>
+      <point x="526" y="790"/>
+      <point x="588" y="864" type="curve"/>
+      <point x="595" y="864"/>
+      <point x="595" y="863"/>
+      <point x="598" y="863" type="curve"/>
+      <point x="694" y="616"/>
+      <point x="757" y="399"/>
+      <point x="836" y="198" type="curve"/>
+      <point x="649" y="195"/>
+      <point x="347" y="187"/>
+    </contour>
+  </outline>
+</glyph>

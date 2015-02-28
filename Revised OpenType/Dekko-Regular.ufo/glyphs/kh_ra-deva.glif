@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="kh_ra-deva" format="1">
+  <advance width="2351"/>
+  <outline>
+    <contour>
+      <point x="1406" y="1123" type="line"/>
+      <point x="1959" y="1123" type="line"/>
+      <point x="1959" y="918"/>
+      <point x="1963" y="840"/>
+      <point x="1964" y="784" type="curve"/>
+      <point x="1920" y="809"/>
+      <point x="1854" y="826"/>
+      <point x="1783" y="826" type="curve" smooth="yes"/>
+      <point x="1671" y="826"/>
+      <point x="1565" y="722"/>
+      <point x="1565" y="588" type="curve" smooth="yes"/>
+      <point x="1565" y="442"/>
+      <point x="1643" y="302"/>
+      <point x="1813" y="65" type="curve" smooth="yes"/>
+      <point x="1988" y="-178"/>
+      <point x="2146" y="-303"/>
+      <point x="2217" y="-303" type="curve" smooth="yes"/>
+      <point x="2236" y="-303"/>
+      <point x="2281" y="-273"/>
+      <point x="2281" y="-243" type="curve" smooth="yes"/>
+      <point x="2281" y="-226"/>
+      <point x="2277" y="-220"/>
+      <point x="2265" y="-216" type="curve"/>
+      <point x="2219" y="-185" type="line" smooth="yes"/>
+      <point x="2088" y="-98"/>
+      <point x="1952" y="42"/>
+      <point x="1830" y="239" type="curve"/>
+      <point x="1852" y="234"/>
+      <point x="1870" y="234"/>
+      <point x="1892" y="234" type="curve" smooth="yes"/>
+      <point x="2078" y="234"/>
+      <point x="2110" y="388"/>
+      <point x="2110" y="607" type="curve" smooth="yes"/>
+      <point x="2110" y="923" type="line" smooth="yes"/>
+      <point x="2110" y="988"/>
+      <point x="2115" y="1123"/>
+      <point x="2143" y="1123" type="curve" smooth="yes"/>
+      <point x="2371" y="1123" type="line"/>
+      <point x="2371" y="1264" type="line"/>
+      <point x="2133" y="1264" type="line"/>
+      <point x="2066" y="1360"/>
+      <point x="2038" y="1388"/>
+      <point x="2005" y="1388" type="curve" smooth="yes"/>
+      <point x="1981" y="1388"/>
+      <point x="1952" y="1370"/>
+      <point x="1952" y="1264" type="curve"/>
+      <point x="1406" y="1264" type="line"/>
+    </contour>
+    <contour>
+      <point x="1773" y="360" type="curve" smooth="yes"/>
+      <point x="1740" y="360"/>
+      <point x="1704" y="425"/>
+      <point x="1704" y="475" type="curve" smooth="yes"/>
+      <point x="1704" y="581"/>
+      <point x="1785" y="663"/>
+      <point x="1864" y="663" type="curve" smooth="yes"/>
+      <point x="1887" y="663"/>
+      <point x="1932" y="649"/>
+      <point x="1968" y="620" type="curve"/>
+      <point x="1968" y="435"/>
+      <point x="1874" y="360"/>
+    </contour>
+    <component base="kh-deva"/>
+    <contour>
+      <point x="268" y="-151" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="2038" y="1267" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1274" y="1258" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="1999" y="-115" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

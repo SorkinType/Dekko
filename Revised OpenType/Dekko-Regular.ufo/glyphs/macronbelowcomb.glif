@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="macronbelowcomb" format="1">
+  <advance width="0"/>
+  <unicode hex="0331"/>
+  <outline>
+    <contour>
+      <point x="-228" y="-232" type="curve" name="hr00" smooth="yes"/>
+      <point x="-258" y="-232"/>
+      <point x="-292" y="-303"/>
+      <point x="-292" y="-352" type="curve" smooth="yes"/>
+      <point x="-292" y="-392"/>
+      <point x="-270" y="-428"/>
+      <point x="-220" y="-428" type="curve" smooth="yes"/>
+      <point x="274" y="-428" type="line" smooth="yes"/>
+      <point x="283" y="-428"/>
+      <point x="295" y="-429"/>
+      <point x="301" y="-429" type="curve" smooth="yes"/>
+      <point x="328" y="-429"/>
+      <point x="344" y="-419"/>
+      <point x="344" y="-347" type="curve" smooth="yes"/>
+      <point x="344" y="-268"/>
+      <point x="324" y="-239"/>
+      <point x="284" y="-239" type="curve" smooth="yes"/>
+      <point x="99" y="-239"/>
+      <point x="-66" y="-232"/>
+    </contour>
+    <contour>
+      <point x="-2" y="-297" type="move" name="_btm"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

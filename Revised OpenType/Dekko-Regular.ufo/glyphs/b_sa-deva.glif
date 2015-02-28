@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="b_sa-deva" format="1">
+  <advance width="2213"/>
+  <outline>
+    <contour>
+      <point x="898" y="474" type="line"/>
+      <point x="853" y="441" type="line"/>
+      <point x="793" y="673"/>
+      <point x="614" y="835"/>
+      <point x="419" y="835" type="curve" smooth="yes"/>
+      <point x="222" y="835"/>
+      <point x="42" y="720"/>
+      <point x="42" y="577" type="curve" smooth="yes"/>
+      <point x="42" y="369"/>
+      <point x="280" y="152"/>
+      <point x="475" y="152" type="curve" smooth="yes"/>
+      <point x="627" y="152"/>
+      <point x="802" y="197"/>
+      <point x="951" y="308" type="curve"/>
+    </contour>
+    <contour>
+      <point x="459" y="317"/>
+      <point x="419" y="308"/>
+      <point x="362" y="308" type="curve" smooth="yes"/>
+      <point x="246" y="308"/>
+      <point x="170" y="371"/>
+      <point x="170" y="451" type="curve" smooth="yes"/>
+      <point x="170" y="528"/>
+      <point x="255" y="642"/>
+      <point x="394" y="662" type="curve"/>
+      <point x="428" y="556"/>
+      <point x="468" y="429"/>
+      <point x="498" y="324" type="curve"/>
+    </contour>
+    <contour>
+      <point x="466" y="683" type="line"/>
+      <point x="498" y="690"/>
+      <point x="521" y="695"/>
+      <point x="540" y="695" type="curve" smooth="yes"/>
+      <point x="635" y="695"/>
+      <point x="747" y="575"/>
+      <point x="807" y="421" type="curve"/>
+      <point x="725" y="391"/>
+      <point x="649" y="367"/>
+      <point x="578" y="351" type="curve"/>
+    </contour>
+    <contour>
+      <point x="605" y="1264" type="line"/>
+      <point x="-31" y="1264" type="line"/>
+      <point x="-31" y="1123" type="line"/>
+      <point x="606" y="1123" type="line"/>
+    </contour>
+    <component base="sa-deva" xOffset="622"/>
+  </outline>
+</glyph>

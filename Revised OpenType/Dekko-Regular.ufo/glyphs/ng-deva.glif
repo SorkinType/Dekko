@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ng-deva" format="1">
+  <advance width="1611"/>
+  <outline>
+    <contour>
+      <point x="1337" y="1264" type="line"/>
+      <point x="1337" y="1123" type="line"/>
+      <point x="1631" y="1123" type="line"/>
+      <point x="1631" y="1264" type="line"/>
+    </contour>
+    <component base="dda-deva" xOffset="6"/>
+    <component base="halant-deva" xOffset="418" yOffset="-64"/>
+    <component base="anusvara-deva" xOffset="1115" yOffset="-892"/>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="khh_ma-deva" format="1">
+  <advance width="2669"/>
+  <outline>
+    <component base="nukta-deva" xOffset="-127" yOffset="-1"/>
+    <component base="kh_ma-deva"/>
+    <contour>
+      <point x="149" y="27" type="move" name="nukta"/>
+    </contour>
+    <contour>
+      <point x="2401" y="1257" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="1448" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="2296" y="-66" type="move" name="bottom"/>
+    </contour>
+  </outline>
+</glyph>

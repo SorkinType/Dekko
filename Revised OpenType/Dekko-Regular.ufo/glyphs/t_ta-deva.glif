@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_ta-deva" format="1">
+  <advance width="1370"/>
+  <outline>
+    <component base="ta-deva"/>
+    <contour>
+      <point x="593" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="947" y="-57" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1121" y="1257" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

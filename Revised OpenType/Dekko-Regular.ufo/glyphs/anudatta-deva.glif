@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="anudatta-deva" format="1">
+  <advance width="540"/>
+  <unicode hex="0952"/>
+  <outline>
+    <contour>
+      <point x="740" y="-391" type="line" smooth="yes"/>
+      <point x="758" y="-391"/>
+      <point x="777" y="-371"/>
+      <point x="777" y="-336" type="curve" smooth="yes"/>
+      <point x="777" y="-302"/>
+      <point x="704" y="-250"/>
+      <point x="669" y="-250" type="curve" smooth="yes"/>
+      <point x="-179" y="-250" type="line" smooth="yes"/>
+      <point x="-212" y="-250"/>
+      <point x="-250" y="-275"/>
+      <point x="-250" y="-314" type="curve" smooth="yes"/>
+      <point x="-250" y="-369"/>
+      <point x="-198" y="-394"/>
+      <point x="-146" y="-394" type="curve" smooth="yes"/>
+      <point x="-136" y="-394" type="line" smooth="yes"/>
+      <point x="-132" y="-394"/>
+      <point x="-129" y="-391"/>
+      <point x="-124" y="-391" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

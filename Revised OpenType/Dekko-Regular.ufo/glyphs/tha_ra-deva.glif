@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tha_ra-deva" format="1">
+  <advance width="1559"/>
+  <outline>
+    <contour>
+      <point x="124" y="-125"/>
+      <point x="98" y="-149"/>
+      <point x="98" y="-179" type="curve" smooth="yes"/>
+      <point x="98" y="-197"/>
+      <point x="238" y="-296"/>
+      <point x="270" y="-296" type="curve" smooth="yes"/>
+      <point x="313" y="-296"/>
+      <point x="471" y="-197"/>
+      <point x="651" y="-38" type="curve"/>
+      <point x="758" y="64"/>
+      <point x="839" y="153"/>
+      <point x="867" y="192" type="curve"/>
+      <point x="803" y="259" type="line"/>
+      <point x="510" y="33"/>
+      <point x="323" y="-125"/>
+      <point x="160" y="-125" type="curve" smooth="yes"/>
+    </contour>
+    <component base="tha-deva"/>
+    <contour>
+      <point x="810" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="1120" y="-77" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1253" y="1257" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

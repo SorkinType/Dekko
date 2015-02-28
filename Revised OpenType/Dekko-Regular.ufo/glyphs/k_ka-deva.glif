@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_ka-deva" format="1">
+  <advance width="3208"/>
+  <outline>
+    <component base="k-deva"/>
+    <component base="ka-deva" xOffset="1391"/>
+    <contour>
+      <point x="1583" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="2322" y="-77" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="2459" y="1257" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

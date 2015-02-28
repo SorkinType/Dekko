@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iiMatra_reph-deva" format="1">
+  <advance width="661"/>
+  <outline>
+    <component base="iiMatra-deva"/>
+    <component base="reph-deva" xOffset="148"/>
+    <contour>
+      <point x="855" y="1257" type="move" name="bin"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>reph-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

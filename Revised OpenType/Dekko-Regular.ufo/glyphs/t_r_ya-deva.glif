@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="t_r_ya-deva" format="1">
+  <advance width="1914"/>
+  <outline>
+    <component base="ya-deva" xOffset="520"/>
+    <component base="t_r-deva"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>ya-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

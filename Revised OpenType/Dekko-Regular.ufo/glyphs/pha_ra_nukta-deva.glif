@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="pha_ra_nukta-deva" format="1">
+  <advance width="1747"/>
+  <outline>
+    <component base="pha_ra-deva"/>
+    <component base="nukta-deva" xOffset="-104" yOffset="-339"/>
+    <contour>
+      <point x="830" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="900" y="-74" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1032" y="1257" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

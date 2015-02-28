@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="reph_anusvara-deva" format="1">
+  <advance width="570"/>
+  <outline>
+    <contour>
+      <point x="440" y="1666" type="curve" smooth="yes"/>
+      <point x="402" y="1666"/>
+      <point x="355" y="1608"/>
+      <point x="355" y="1556" type="curve" smooth="yes"/>
+      <point x="355" y="1481"/>
+      <point x="415" y="1468"/>
+      <point x="446" y="1468" type="curve" smooth="yes"/>
+      <point x="497" y="1468"/>
+      <point x="521" y="1503"/>
+      <point x="521" y="1570" type="curve" smooth="yes"/>
+      <point x="521" y="1645"/>
+      <point x="476" y="1666"/>
+    </contour>
+    <component base="reph-deva" xOffset="2" yOffset="-5"/>
+    <contour>
+      <point x="818" y="1340" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="169" y="1258" type="move" name="_top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>reph-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

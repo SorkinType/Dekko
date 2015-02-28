@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="n_t_sa-deva" format="1">
+  <advance width="3251"/>
+  <outline>
+    <contour>
+      <point x="1898" y="1123" type="line"/>
+      <point x="1898" y="1264" type="line"/>
+      <point x="765" y="1264" type="line"/>
+      <point x="765" y="1123" type="line"/>
+    </contour>
+    <contour>
+      <point x="935" y="215"/>
+      <point x="1258" y="-222"/>
+      <point x="1421" y="-222" type="curve" smooth="yes"/>
+      <point x="1443" y="-222"/>
+      <point x="1451" y="-205"/>
+      <point x="1451" y="-173" type="curve" smooth="yes"/>
+      <point x="1451" y="-134"/>
+      <point x="1431" y="-95"/>
+      <point x="1391" y="-68" type="curve"/>
+      <point x="1229" y="-26"/>
+      <point x="1103" y="136"/>
+      <point x="1103" y="337" type="curve" smooth="yes"/>
+      <point x="1103" y="525"/>
+      <point x="1246" y="639"/>
+      <point x="1456" y="639" type="curve" smooth="yes"/>
+      <point x="1601" y="639"/>
+      <point x="1769" y="602"/>
+      <point x="1872" y="535" type="curve"/>
+      <point x="1872" y="641" type="line"/>
+      <point x="1754" y="767"/>
+      <point x="1556" y="831"/>
+      <point x="1412" y="831" type="curve" smooth="yes"/>
+      <point x="1125" y="831"/>
+      <point x="935" y="684"/>
+      <point x="935" y="443" type="curve" smooth="yes"/>
+    </contour>
+    <component base="sa-deva" xOffset="1660"/>
+    <component base="n-deva" xOffset="-7"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>n-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

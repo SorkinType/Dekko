@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="g" format="1">
+  <advance width="955"/>
+  <unicode hex="0067"/>
+  <outline>
+    <contour>
+      <point x="356" y="-237" type="curve" smooth="yes"/>
+      <point x="305" y="-237"/>
+      <point x="293" y="-279"/>
+      <point x="293" y="-339" type="curve" smooth="yes"/>
+      <point x="293" y="-456"/>
+      <point x="502" y="-483"/>
+      <point x="555" y="-483" type="curve" smooth="yes"/>
+      <point x="814" y="-483"/>
+      <point x="796" y="-159"/>
+      <point x="833" y="60" type="curve" smooth="yes"/>
+      <point x="833" y="66"/>
+      <point x="834" y="69"/>
+      <point x="834" y="74" type="curve" smooth="yes"/>
+      <point x="853" y="547" type="line"/>
+      <point x="853" y="720"/>
+      <point x="660" y="958"/>
+      <point x="454" y="958" type="curve" smooth="yes"/>
+      <point x="192" y="958"/>
+      <point x="74" y="688"/>
+      <point x="74" y="416" type="curve" smooth="yes"/>
+      <point x="74" y="124"/>
+      <point x="203" y="-23"/>
+      <point x="441" y="-23" type="curve" smooth="yes"/>
+      <point x="533" y="-23"/>
+      <point x="674" y="33"/>
+      <point x="697" y="129" type="curve"/>
+      <point x="679" y="-31"/>
+      <point x="694" y="-284"/>
+      <point x="567" y="-284" type="curve" smooth="yes"/>
+      <point x="384" y="-284"/>
+      <point x="397" y="-237"/>
+    </contour>
+    <contour>
+      <point x="213" y="429" type="curve"/>
+      <point x="215" y="605"/>
+      <point x="279" y="765"/>
+      <point x="476" y="765" type="curve" smooth="yes"/>
+      <point x="657" y="765"/>
+      <point x="697" y="586"/>
+      <point x="715" y="448" type="curve"/>
+      <point x="686" y="334"/>
+      <point x="596" y="163"/>
+      <point x="463" y="163" type="curve" smooth="yes"/>
+      <point x="317" y="163"/>
+      <point x="213" y="220"/>
+    </contour>
+    <contour>
+      <point x="462" y="-297" type="move" name="btm"/>
+    </contour>
+    <contour>
+      <point x="450" y="1515" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

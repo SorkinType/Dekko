@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ldotbelowmacron" format="1">
+  <advance width="518"/>
+  <unicode hex="1E39"/>
+  <outline>
+    <component base="l"/>
+    <component base="dotbelowcomb" xOffset="324"/>
+    <component base="macron.cap" xOffset="-202" yOffset="285"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

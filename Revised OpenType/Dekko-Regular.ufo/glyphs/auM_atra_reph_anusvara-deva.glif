@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="auMatra_reph_anusvara-deva" format="1">
+  <advance width="464"/>
+  <outline>
+    <component base="aaMatra-deva"/>
+    <component base="aiMatra-deva" xOffset="-63"/>
+    <component base="reph_anusvara-deva" xOffset="120" yOffset="-1"/>
+    <contour>
+      <point x="625" y="1257" type="move" name="bin"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>aiMatra-deva</string>
+        </dict>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>2</integer>
+          <key>name</key>
+          <string>reph_anusvara-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

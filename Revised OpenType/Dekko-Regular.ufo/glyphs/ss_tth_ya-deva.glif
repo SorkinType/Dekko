@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ss_tth_ya-deva" format="1">
+  <advance width="2722"/>
+  <outline>
+    <component base="ss_ttha-deva"/>
+    <component base="ya-deva.post" xOffset="1295"/>
+  </outline>
+</glyph>

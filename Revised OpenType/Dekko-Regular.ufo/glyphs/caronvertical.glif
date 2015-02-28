@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caronvertical" format="1">
+  <advance width="807"/>
+  <outline>
+    <contour>
+      <point x="804" y="1150"/>
+      <point x="779" y="1246"/>
+      <point x="779" y="1317" type="curve" smooth="yes"/>
+      <point x="779" y="1413"/>
+      <point x="795" y="1522"/>
+      <point x="800" y="1601" type="curve"/>
+      <point x="800" y="1638"/>
+      <point x="795" y="1669"/>
+      <point x="751" y="1669" type="curve" smooth="yes"/>
+      <point x="637" y="1669"/>
+      <point x="637" y="1335"/>
+      <point x="637" y="1216" type="curve" smooth="yes"/>
+      <point x="637" y="1118"/>
+      <point x="643" y="1088"/>
+      <point x="645" y="1080" type="curve" smooth="yes"/>
+      <point x="660" y="1031"/>
+      <point x="688" y="1013"/>
+      <point x="736" y="1013" type="curve" smooth="yes"/>
+      <point x="767" y="1013"/>
+      <point x="804" y="1037"/>
+      <point x="804" y="1084" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="729" y="1021" type="move" name="_car"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.adobe.type.autohint</key>
+      <string>ICA8aGludFNldExpc3Q+CiAgICA8aGludHNldCBw</string>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <real>0.0</real>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <integer>1</integer>
+        <real>0.6</real>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+      <key>public.markColor</key>
+      <string>0.85,0.26,0.06,1</string>
+    </dict>
+  </lib>
+</glyph>

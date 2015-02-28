@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="iMatra-deva.35" format="1">
+  <advance width="556"/>
+  <outline>
+    <contour>
+      <point x="-20" y="1123" type="line"/>
+      <point x="287" y="1123" type="line"/>
+      <point x="287" y="283" type="line" smooth="yes"/>
+      <point x="287" y="157"/>
+      <point x="243" y="49"/>
+      <point x="169" y="49" type="curve" smooth="yes"/>
+      <point x="149" y="49"/>
+      <point x="122" y="36"/>
+      <point x="122" y="14" type="curve" smooth="yes"/>
+      <point x="122" y="-29"/>
+      <point x="240" y="-120"/>
+      <point x="283" y="-120" type="curve" smooth="yes"/>
+      <point x="363" y="-120"/>
+      <point x="441" y="-2"/>
+      <point x="441" y="142" type="curve" smooth="yes"/>
+      <point x="441" y="955" type="line" smooth="yes"/>
+      <point x="441" y="1050"/>
+      <point x="481" y="1123"/>
+      <point x="521" y="1123" type="curve" smooth="yes"/>
+      <point x="678" y="1123" type="line"/>
+      <point x="678" y="1264" type="line"/>
+      <point x="450" y="1264" type="line"/>
+      <point x="354" y="1286"/>
+      <point x="299" y="1404"/>
+      <point x="299" y="1520" type="curve" smooth="yes"/>
+      <point x="299" y="1666"/>
+      <point x="449" y="1785"/>
+      <point x="678" y="1785" type="curve" smooth="yes"/>
+      <point x="1353" y="1785"/>
+      <point x="2364" y="1553"/>
+      <point x="2524" y="1355" type="curve"/>
+      <point x="2532" y="1335"/>
+      <point x="2555" y="1325"/>
+      <point x="2575" y="1325" type="curve" smooth="yes"/>
+      <point x="2580" y="1325"/>
+      <point x="2585" y="1343"/>
+      <point x="2585" y="1386" type="curve"/>
+      <point x="2552" y="1567"/>
+      <point x="1484" y="1948"/>
+      <point x="655" y="1948" type="curve" smooth="yes"/>
+      <point x="364" y="1948"/>
+      <point x="149" y="1783"/>
+      <point x="149" y="1565" type="curve" smooth="yes"/>
+      <point x="149" y="1449"/>
+      <point x="198" y="1328"/>
+      <point x="284" y="1264" type="curve"/>
+      <point x="-20" y="1264" type="line"/>
+    </contour>
+    <contour>
+      <point x="2577" y="1332" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="2545" y="1382" type="move" name="imatra"/>
+    </contour>
+    <contour>
+      <point x="2651" y="1376" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>

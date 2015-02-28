@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="l_d_ra-deva" format="1">
+  <advance width="2252"/>
+  <outline>
+    <contour>
+      <point x="974" y="1123" type="line"/>
+      <point x="974" y="1264" type="line"/>
+      <point x="-20" y="1264" type="line"/>
+      <point x="-20" y="1123" type="line"/>
+    </contour>
+    <contour>
+      <point x="792" y="-149" type="curve" smooth="yes"/>
+      <point x="802" y="-149"/>
+      <point x="810" y="-120"/>
+      <point x="810" y="-95" type="curve"/>
+      <point x="804" y="-45"/>
+      <point x="771" y="-2"/>
+      <point x="724" y="-2" type="curve" smooth="yes"/>
+      <point x="489" y="-2"/>
+      <point x="287" y="208"/>
+      <point x="287" y="454" type="curve" smooth="yes"/>
+      <point x="287" y="626"/>
+      <point x="391" y="767"/>
+      <point x="518" y="767" type="curve" smooth="yes"/>
+      <point x="562" y="767"/>
+      <point x="619" y="732"/>
+      <point x="660" y="694" type="curve"/>
+      <point x="661" y="694" type="line"/>
+      <point x="626" y="651"/>
+      <point x="615" y="610"/>
+      <point x="615" y="585" type="curve" smooth="yes"/>
+      <point x="615" y="540"/>
+      <point x="706" y="454"/>
+      <point x="753" y="454" type="curve" smooth="yes"/>
+      <point x="760" y="454"/>
+      <point x="773" y="476"/>
+      <point x="775" y="497" type="curve"/>
+      <point x="800" y="619"/>
+      <point x="985" y="722"/>
+      <point x="1087" y="722" type="curve" smooth="yes"/>
+      <point x="1156" y="722"/>
+      <point x="1221" y="705"/>
+      <point x="1246" y="674" type="curve"/>
+      <point x="1362" y="747" type="line"/>
+      <point x="1272" y="829"/>
+      <point x="1170" y="875"/>
+      <point x="1047" y="875" type="curve" smooth="yes"/>
+      <point x="905" y="875"/>
+      <point x="755" y="829"/>
+      <point x="710" y="753" type="curve"/>
+      <point x="702" y="753" type="line"/>
+      <point x="643" y="863"/>
+      <point x="553" y="942"/>
+      <point x="462" y="942" type="curve" smooth="yes"/>
+      <point x="287" y="942"/>
+      <point x="144" y="773"/>
+      <point x="144" y="567" type="curve" smooth="yes"/>
+      <point x="144" y="193"/>
+      <point x="466" y="-149"/>
+    </contour>
+    <contour>
+      <point x="1246" y="674" type="move"/>
+    </contour>
+    <component base="d_ra-deva" xOffset="994"/>
+  </outline>
+</glyph>

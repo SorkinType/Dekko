@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="s_t_ra-deva" format="1">
+  <advance width="2690"/>
+  <outline>
+    <component base="s-deva"/>
+    <component base="ra-deva" xOffset="1770"/>
+    <component base="t_t-deva" xOffset="906"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>disableAlignment</key>
+          <true/>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>s-deva</string>
+        </dict>
+      </array>
+    </dict>
+  </lib>
+</glyph>

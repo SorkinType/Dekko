@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="k_t_ta-deva" format="1">
+  <advance width="3405"/>
+  <outline>
+    <contour>
+      <point x="2323" y="1123" type="line"/>
+      <point x="2323" y="1264" type="line"/>
+      <point x="1190" y="1264" type="line"/>
+      <point x="1190" y="1123" type="line"/>
+    </contour>
+    <contour>
+      <point x="1361" y="215"/>
+      <point x="1684" y="-222"/>
+      <point x="1847" y="-222" type="curve" smooth="yes"/>
+      <point x="1869" y="-222"/>
+      <point x="1877" y="-205"/>
+      <point x="1877" y="-173" type="curve" smooth="yes"/>
+      <point x="1877" y="-134"/>
+      <point x="1857" y="-95"/>
+      <point x="1817" y="-68" type="curve"/>
+      <point x="1655" y="-26"/>
+      <point x="1529" y="136"/>
+      <point x="1529" y="337" type="curve" smooth="yes"/>
+      <point x="1529" y="525"/>
+      <point x="1672" y="639"/>
+      <point x="1882" y="639" type="curve" smooth="yes"/>
+      <point x="2027" y="639"/>
+      <point x="2195" y="602"/>
+      <point x="2298" y="535" type="curve"/>
+      <point x="2298" y="641" type="line"/>
+      <point x="2180" y="767"/>
+      <point x="1982" y="831"/>
+      <point x="1838" y="831" type="curve" smooth="yes"/>
+      <point x="1551" y="831"/>
+      <point x="1361" y="684"/>
+      <point x="1361" y="443" type="curve" smooth="yes"/>
+    </contour>
+    <component base="k-deva"/>
+    <component base="ta-deva" xOffset="2035"/>
+  </outline>
+</glyph>

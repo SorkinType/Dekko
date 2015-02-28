@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sa_t_ra-deva" format="1">
+  <advance width="2144"/>
+  <outline>
+    <contour>
+      <point x="646" y="510" type="line"/>
+      <point x="931" y="510"/>
+      <point x="989" y="768"/>
+      <point x="1332" y="768" type="curve" smooth="yes"/>
+      <point x="1497" y="768"/>
+      <point x="1707" y="592"/>
+      <point x="1810" y="525" type="curve"/>
+      <point x="1810" y="631" type="line"/>
+      <point x="1692" y="757"/>
+      <point x="1494" y="931"/>
+      <point x="1310" y="931" type="curve" smooth="yes"/>
+      <point x="966" y="931"/>
+      <point x="891" y="715"/>
+      <point x="646" y="715" type="curve"/>
+    </contour>
+    <contour>
+      <point x="1131" y="197"/>
+      <point x="1105" y="173"/>
+      <point x="1105" y="143" type="curve" smooth="yes"/>
+      <point x="1105" y="125"/>
+      <point x="1245" y="26"/>
+      <point x="1277" y="26" type="curve" smooth="yes"/>
+      <point x="1320" y="26"/>
+      <point x="1458" y="125"/>
+      <point x="1638" y="284" type="curve"/>
+      <point x="1745" y="386"/>
+      <point x="1782" y="425"/>
+      <point x="1810" y="464" type="curve"/>
+      <point x="1810" y="631" type="line"/>
+      <point x="1517" y="405"/>
+      <point x="1330" y="197"/>
+      <point x="1167" y="197" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="904" y="1123" type="line"/>
+      <point x="1785" y="1123" type="line"/>
+      <point x="1785" y="253" type="line" smooth="yes"/>
+      <point x="1785" y="127"/>
+      <point x="1761" y="19"/>
+      <point x="1687" y="19" type="curve" smooth="yes"/>
+      <point x="1667" y="19"/>
+      <point x="1640" y="6"/>
+      <point x="1640" y="-16" type="curve" smooth="yes"/>
+      <point x="1640" y="-59"/>
+      <point x="1738" y="-150"/>
+      <point x="1781" y="-150" type="curve" smooth="yes"/>
+      <point x="1861" y="-150"/>
+      <point x="1939" y="-32"/>
+      <point x="1939" y="112" type="curve" smooth="yes"/>
+      <point x="1939" y="955" type="line" smooth="yes"/>
+      <point x="1939" y="1050"/>
+      <point x="1979" y="1123"/>
+      <point x="2019" y="1123" type="curve" smooth="yes"/>
+      <point x="2164" y="1123" type="line"/>
+      <point x="2164" y="1264" type="line"/>
+      <point x="2016" y="1264" type="line"/>
+      <point x="1898" y="1367" type="line" smooth="yes"/>
+      <point x="1866" y="1396"/>
+      <point x="1847" y="1396"/>
+      <point x="1837" y="1400" type="curve"/>
+      <point x="1797" y="1400"/>
+      <point x="1758" y="1367"/>
+      <point x="1758" y="1312" type="curve" smooth="yes"/>
+      <point x="1758" y="1264" type="line"/>
+      <point x="904" y="1264" type="line"/>
+    </contour>
+    <component base="ra-deva"/>
+    <contour>
+      <point x="904" y="1257" type="move" name="bin"/>
+    </contour>
+    <contour>
+      <point x="1781" y="-99" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="1882" y="1257" type="move" name="top"/>
+    </contour>
+  </outline>
+</glyph>
