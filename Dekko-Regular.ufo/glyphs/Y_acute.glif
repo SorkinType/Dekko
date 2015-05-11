@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Yacute" format="1">
-  <advance width="369"/>
+  <advance width="798"/>
   <unicode hex="00DD"/>
   <outline>
-    <component base="Y" xOffset="3"/>
-    <component base="acute.cap" xOffset="132" yOffset="38"/>
+    <component base="Y"/>
+    <component base="acute.cap" xOffset="306" yOffset="68"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>

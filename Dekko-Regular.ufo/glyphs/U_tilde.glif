@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="Utilde" format="1">
-  <advance width="452"/>
+  <advance width="1050"/>
   <unicode hex="0168"/>
   <outline>
-    <component base="U" xOffset="-15"/>
-    <component base="tilde.cap" xOffset="34" yOffset="38"/>
+    <component base="U"/>
+    <component base="tilde.cap" xOffset="108" yOffset="86"/>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.6</real>
+        <real>0.986</real>
+        <integer>1</integer>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
 </glyph>
