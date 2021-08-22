@@ -22,7 +22,8 @@ DisplayStrings = (
 "/oldt_rakar-deva",
 "/invertedCandraBindu-deva",
 "/rakar_ra-deva",
-"/eLongCandra-deva"
+"/eLongCandra-deva",
+"/zero-deva"
 );
 classes = (
 {
@@ -54585,7 +54586,7 @@ com.typemytype.robofont.mark = (
 },
 {
 glyphname = "zero-deva";
-lastChange = "2021-08-22 03:02:32 +0000";
+lastChange = "2021-08-22 03:14:20 +0000";
 layers = (
 {
 layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
@@ -54625,10 +54626,10 @@ nodes = (
 );
 }
 );
-width = 1518;
+width = 1487;
 }
 );
-rightMetricsKey = "";
+rightMetricsKey = "=|";
 unicode = 0966;
 },
 {
