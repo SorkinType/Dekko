@@ -2,28 +2,12 @@
 
 ![Sample Image](documentation/image1.png)
 
-Denk is a medium contrast display sans serif. It was inspired by a hand painted German sign. Inder has been carefully adjusted to the restrictions of the screen. Despite having display characteristics Denk can be used in a wide range of sizes.
-
-Denk One is a Unicode typeface family that supports languages that use the Latin script and its variants, and could be expanded.
-
-More specifically, this release supports the following codepages: 
-Latin-1, Latin-2, Turkish, Windows Baltic, Windows Vietnamese, Macintosh Character Set
-
-The following Unicode ranges are supported:
-Basic Latin, Latin-1 Supplement, Latin Extended-A, Latin Extended-B, IPA Exetnsions, 
-Spacing Modifier letters, Combining Diacritical Marks, Greek, Devanagari, 
-Latin Extended Additional, General Puctuation, Superscripts and Subscripts, 
-Currency Symbols, Letterlike Symbols, Number Forms, Arrows, Mathematical Operators, 
-Geometric Shapes, Miscelanious Symbols, Dingbats, Alphabetic presentation forms
+Dekko’s personality is both warm and casual. It originated with Modular InfoTech's 4948, and was modified to feel more written and regular in appearance and weight. The inter-letter spacing of the design is now wider, allowing for it to be used at smaller sizes on screens. Dekko also comes with a complete set of Latin which matches the Devanagari in weight and and size, and originates with Short Stack. Both the Devanagari and the Latin are based on written forms, and their stroke contrast has thick horizontals. The pen angles traditionally associated with Devanagari has some diagonal stress, but here the Latin script uses a vertical stress.
 
 ![Sample Image](documentation/image2.png)
 ![Sample Image](documentation/image3.png)
 
 ## Authors
-
-N: Irina Smirnova
-E: irina.v.sm@gmail.com
-D: Designer
 
 N: Eben Sorkin
 E: sorkineben@gmail.com
