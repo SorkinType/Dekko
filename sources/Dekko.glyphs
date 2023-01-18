@@ -1,5 +1,5 @@
 {
-.appVersion = "3148";
+.appVersion = "3151";
 .formatVersion = 3;
 DisplayStrings = (
 ".„…"
@@ -27,12 +27,12 @@ name = DevaFullforms;
 },
 {
 automatic = 1;
-code = "k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva th-deva d-deva dh-deva n-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva v-deva sh-deva ss-deva s-deva h-deva khh-deva z-deva f-deva l-deva.loclMAR sh-deva.loclMAR jh-deva.np";
+code = "k-deva kh-deva g-deva gh-deva ng-deva c-deva ch-deva j-deva jh-deva ny-deva tt-deva tth-deva dd-deva ddh-deva nn-deva t-deva th-deva d-deva dh-deva n-deva nnn-deva p-deva ph-deva b-deva bh-deva m-deva y-deva rr-deva l-deva ll-deva lll-deva v-deva sh-deva ss-deva s-deva h-deva q-deva khh-deva ghh-deva z-deva dddh-deva rh-deva f-deva yy-deva l-deva.loclMAR sh-deva.loclMAR jh-deva.np";
 name = DevaHalfforms;
 },
 {
 automatic = 1;
-code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute B Bdotaccent C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotaccent Ddotbelow Dlinebelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jcircumflex K Kcommaaccent L LJ Lacute Lcaron Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Llinebelow Lslash M Mdotaccent Mdotbelow N NJ Nacute Ncaron Ncommaaccent Ndotaccent Ndotbelow Nj Nlinebelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Oogonek Oslash Otilde OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcommaaccent Tdotaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow I.uc Delta Omega";
+code = "A Aacute Abreve Abreveacute Abrevedotbelow Abrevegrave Abrevehookabove Abrevetilde Acaron Acircumflex Acircumflexacute Acircumflexdotbelow Acircumflexgrave Acircumflexhookabove Acircumflextilde Adieresis Adieresismacron Adotbelow Agrave Ahookabove Amacron Aogonek Aring Atilde AE AEacute AEmacron B Bdotaccent Bdotbelow C Cacute Ccaron Ccedilla Ccircumflex Cdotaccent D DZ DZcaron Eth Dcaron Dcroat Ddotaccent Ddotbelow Dlinebelow Dz Dzcaron E Eacute Ebreve Ecaron Ecircumflex Ecircumflexacute Ecircumflexdotbelow Ecircumflexgrave Ecircumflexhookabove Ecircumflextilde Edieresis Edotaccent Edotbelow Egrave Ehookabove Emacron Eogonek Etilde Schwa F Fdotaccent G Gbreve Gcaron Gcircumflex Gcommaaccent Gdotaccent Gmacron H Hbar Hbrevebelow Hcircumflex Hdotbelow I IJ Iacute Ibreve Icaron Icircumflex Idieresis Idieresisacute Idotaccent Idotbelow Igrave Ihookabove Imacron Iogonek Itilde J Jacute Jcircumflex K Kcaron Kcommaaccent Kmacronbelow L LJ Lacute Lcaron Lcircumflexbelow Lcommaaccent Ldot Ldotbelow Ldotbelowmacron Lj Llinebelow Lslash M Macute Mdotaccent Mdotbelow N NJ Nacute Ncaron Ncircumflexbelow Ncommaaccent Ndotaccent Ndotbelow Nj Nlinebelow Ntilde Eng O Oacute Obreve Ocaron Ocircumflex Ocircumflexacute Ocircumflexdotbelow Ocircumflexgrave Ocircumflexhookabove Ocircumflextilde Odieresis Odieresismacron Odotbelow Ograve Ohookabove Ohorn Ohornacute Ohorndotbelow Ohorngrave Ohornhookabove Ohorntilde Ohungarumlaut Omacron Omacronacute Omacrongrave Oogonek Oslash Oslashacute Otilde Otildeacute OE P Pdotaccent Thorn Q R Racute Rcaron Rcommaaccent Rdotbelow Rdotbelowmacron Rlinebelow S Sacute Saltillo Scaron Scedilla Scircumflex Scommaaccent Sdotaccent Sdotbelow Germandbls T Tbar Tcaron Tcedilla Tcircumflexbelow Tcommaaccent Tdotaccent Tdotbelow Tlinebelow U Uacute Ubreve Ucaron Ucircumflex Udieresis Udieresisacute Udieresiscaron Udieresisgrave Udieresismacron Udotbelow Ugrave Uhookabove Uhorn Uhornacute Uhorndotbelow Uhorngrave Uhornhookabove Uhorntilde Uhungarumlaut Umacron Uogonek Uring Utilde V Vturned W Wacute Wcircumflex Wdieresis Wgrave X Y Yacute Ycircumflex Ydieresis Ydotaccent Ydotbelow Ygrave Yhookabove Ymacron Ytilde Z Zacute Zcaron Zdotaccent Zdotbelow Zmacronbelow Lcommaaccent.loclMAH Ncommaaccent.loclMAH I.uc Delta Omega";
 name = Uppercase;
 },
 {
@@ -50,18 +50,39 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = vendorID;
+value = STC;
+},
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Use Extension Kerning";
+value = 1;
 }
 );
-date = "2015-02-19 23:12:13 +0000";
+date = "2023-01-18 20:34:09 +0000";
 familyName = Dekko;
 featurePrefixes = (
 {
 automatic = 1;
 code = "languagesystem DFLT dflt;
+languagesystem DFLT MAH;
 
 languagesystem latn dflt;
+languagesystem latn AZE;
+languagesystem latn CRT;
+languagesystem latn KAZ;
+languagesystem latn TAT;
+languagesystem latn TRK;
 languagesystem latn ROM;
 languagesystem latn MOL;
+languagesystem latn MAH;
+languagesystem latn CAT;
+languagesystem latn NLD;
 
 languagesystem dev2 dflt;
 languagesystem dev2 MAR;
@@ -304,21 +325,46 @@ feature blws;
 feature pres;
 feature abvs;
 feature ss02;
+feature pnum;
+feature tnum;
+feature case;
 ";
 tag = aalt;
 },
 {
 automatic = 1;
 code = "lookup ccmp_Other_1 {
-	@CombiningTopAccents = [hookabovecomb];
-	@CombiningNonTopAccents = [brevebelowcomb dieresisbelowcomb dotbelowcomb macronbelowcomb];
+	@CombiningTopAccents = [acutecomb brevecomb candraBinducomb caroncomb circumflexcomb commaturnedabovecomb dieresiscomb dotaccentcomb gravecomb hookabovecomb hungarumlautcomb macroncomb ringcomb tildecomb];
+	@CombiningNonTopAccents = [brevebelowcomb cedillacomb dieresisbelowcomb dotbelowcomb doublemacronbelowcomb macronbelowcomb ogonekcomb ringbelowcomb];
 	sub [i j]' @CombiningTopAccents by [idotless jdotless];
 	sub [i j]' @CombiningNonTopAccents @CombiningTopAccents by [idotless jdotless];
+	@Markscomb = [dieresiscomb dieresiscomb_gravecomb dieresiscomb_acutecomb dieresiscomb_caroncomb dieresiscomb_macroncomb dotaccentcomb gravecomb acutecomb hungarumlautcomb circumflexcomb circumflexcomb_gravecomb circumflexcomb_acutecomb circumflexcomb_tildecomb circumflexcomb_hookabovecomb caroncomb brevecomb brevecomb_gravecomb brevecomb_acutecomb brevecomb_tildecomb brevecomb_hookabovecomb ringcomb tildecomb macroncomb hookabovecomb];
+	@MarkscombCase = [dieresiscomb.case dieresiscomb_gravecomb.case dieresiscomb_acutecomb.case dieresiscomb_caroncomb.case dieresiscomb_macroncomb.case dotaccentcomb.case gravecomb.case acutecomb.case hungarumlautcomb.case circumflexcomb.case circumflexcomb_gravecomb.case circumflexcomb_acutecomb.case circumflexcomb_tildecomb.case circumflexcomb_hookabovecomb.case caroncomb.case brevecomb.case brevecomb_gravecomb.case brevecomb_acutecomb.case brevecomb_tildecomb.case brevecomb_hookabovecomb.case ringcomb.case tildecomb.case macroncomb.case hookabovecomb.case];
+	sub @Markscomb @Markscomb' by @MarkscombCase;
+	sub @Uppercase @Markscomb' by @MarkscombCase;
 } ccmp_Other_1;
+
+lookup ccmp_Other_2 {
+	sub @Markscomb' @MarkscombCase by @MarkscombCase;
+	sub @MarkscombCase @Markscomb' by @MarkscombCase;
+} ccmp_Other_2;
+
+lookup ccmp_Other_3 {
+	lookupflag 0;
+	sub acutecomb macroncomb by acutecomb_macroncomb;
+	sub dieresiscomb acutecomb by dieresiscomb_acutecomb;
+	sub dieresiscomb caroncomb by dieresiscomb_caroncomb;
+	sub dieresiscomb gravecomb by dieresiscomb_gravecomb;
+	sub dieresiscomb macroncomb by dieresiscomb_macroncomb;
+	sub gravecomb macroncomb by gravecomb_macroncomb;
+	sub macroncomb acutecomb by macroncomb_acutecomb;
+	sub macroncomb gravecomb by macroncomb_gravecomb;
+} ccmp_Other_3;
 
 lookup ccmp_latn_1 {
 	sub fi by f i;
 	sub fl by f l;
+	sub Ldot by L periodcentered.loclCAT.case;
 	sub lj by l j;
 	sub Lj by L j;
 	sub LJ by L J;
@@ -329,14 +375,46 @@ lookup ccmp_latn_1 {
 	sub DZcaron by D Zcaron;
 } ccmp_latn_1;
 
+lookup ccmp_latn_2 {
+	lookupflag 0;
+	sub brevecomb acutecomb by brevecomb_acutecomb;
+	sub brevecomb gravecomb by brevecomb_gravecomb;
+	sub brevecomb hookabovecomb by brevecomb_hookabovecomb;
+	sub brevecomb tildecomb by brevecomb_tildecomb;
+	sub circumflexcomb acutecomb by circumflexcomb_acutecomb;
+	sub circumflexcomb gravecomb by circumflexcomb_gravecomb;
+	sub circumflexcomb hookabovecomb by circumflexcomb_hookabovecomb;
+	sub circumflexcomb tildecomb by circumflexcomb_tildecomb;
+} ccmp_latn_2;
+
 script latn;
 lookup ccmp_latn_1;
+lookup ccmp_latn_2;
 ";
 tag = ccmp;
 },
 {
 automatic = 1;
-code = "lookup locl_latn_0 {
+code = "lookup locl_noScript_0 {
+	language MAH;
+	sub commaaccentcomb by commaaccentcomb.loclMAH;
+} locl_noScript_0;
+
+lookup locl_latn_0 {
+	script latn;
+	language AZE;
+	sub i by idotaccent;
+	language CRT;
+	sub i by idotaccent;
+	language KAZ;
+	sub i by idotaccent;
+	language TAT;
+	sub i by idotaccent;
+	language TRK;
+	sub i by idotaccent;
+} locl_latn_0;
+
+lookup locl_latn_1 {
 	script latn;
 	language ROM;
 	sub Scedilla by Scommaaccent;
@@ -346,7 +424,30 @@ code = "lookup locl_latn_0 {
 	sub Scedilla by Scommaaccent;
 	sub Tcedilla by Tcommaaccent;
 	sub tcedilla by tcommaaccent;
-} locl_latn_0;
+} locl_latn_1;
+
+lookup locl_latn_2 {
+	script latn;
+	language MAH;
+	sub Lcommaaccent by Lcommaaccent.loclMAH;
+	sub Ncommaaccent by Ncommaaccent.loclMAH;
+	sub lcommaaccent by lcommaaccent.loclMAH;
+	sub ncommaaccent by ncommaaccent.loclMAH;
+} locl_latn_2;
+
+lookup locl_latn_3 {
+	script latn;
+	language CAT;
+	sub l periodcentered' l by periodcentered.loclCAT;
+	sub L periodcentered' L by periodcentered.loclCAT.case;
+} locl_latn_3;
+
+lookup locl_latn_4 {
+	script latn;
+	language NLD;
+	sub iacute j' by jacute;
+	sub Iacute J' by Jacute;
+} locl_latn_4;
 
 lookup locl_dev2_0 {
 	script dev2;
@@ -379,6 +480,66 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 sub [zero one two three four five six seven eight nine] [O o]' by ordmasculine;
 ";
 tag = ordn;
+},
+{
+automatic = 1;
+code = "sub zero.tf by zero;
+sub one.tf by one;
+sub two.tf by two;
+sub three.tf by three;
+sub four.tf by four;
+sub five.tf by five;
+sub six.tf by six;
+sub seven.tf by seven;
+sub eight.tf by eight;
+sub nine.tf by nine;
+";
+tag = pnum;
+},
+{
+automatic = 1;
+code = "sub zero by zero.tf;
+sub one by one.tf;
+sub two by two.tf;
+sub three by three.tf;
+sub four by four.tf;
+sub five by five.tf;
+sub six by six.tf;
+sub seven by seven.tf;
+sub eight by eight.tf;
+sub nine by nine.tf;
+";
+tag = tnum;
+},
+{
+automatic = 1;
+code = "sub periodcentered.loclCAT by periodcentered.loclCAT.case;
+sub dieresiscomb by dieresiscomb.case;
+sub dieresiscomb_gravecomb by dieresiscomb_gravecomb.case;
+sub dieresiscomb_acutecomb by dieresiscomb_acutecomb.case;
+sub dieresiscomb_caroncomb by dieresiscomb_caroncomb.case;
+sub dieresiscomb_macroncomb by dieresiscomb_macroncomb.case;
+sub dotaccentcomb by dotaccentcomb.case;
+sub gravecomb by gravecomb.case;
+sub acutecomb by acutecomb.case;
+sub hungarumlautcomb by hungarumlautcomb.case;
+sub circumflexcomb by circumflexcomb.case;
+sub circumflexcomb_gravecomb by circumflexcomb_gravecomb.case;
+sub circumflexcomb_acutecomb by circumflexcomb_acutecomb.case;
+sub circumflexcomb_tildecomb by circumflexcomb_tildecomb.case;
+sub circumflexcomb_hookabovecomb by circumflexcomb_hookabovecomb.case;
+sub caroncomb by caroncomb.case;
+sub brevecomb by brevecomb.case;
+sub brevecomb_gravecomb by brevecomb_gravecomb.case;
+sub brevecomb_acutecomb by brevecomb_acutecomb.case;
+sub brevecomb_tildecomb by brevecomb_tildecomb.case;
+sub brevecomb_hookabovecomb by brevecomb_hookabovecomb.case;
+sub ringcomb by ringcomb.case;
+sub tildecomb by tildecomb.case;
+sub macroncomb by macroncomb.case;
+sub hookabovecomb by hookabovecomb.case;
+";
+tag = case;
 },
 {
 automatic = 1;
@@ -509,6 +670,7 @@ lookup dev2_half {
 	sub da-deva halant-deva by d-deva;
 	sub dha-deva halant-deva by dh-deva;
 	sub na-deva halant-deva by n-deva;
+	sub nnna-deva halant-deva by nnn-deva;
 	sub pa-deva halant-deva by p-deva;
 	sub pha-deva halant-deva by ph-deva;
 	sub ba-deva halant-deva by b-deva;
@@ -518,14 +680,20 @@ lookup dev2_half {
 	sub rra-deva halant-deva by rr-deva;
 	sub la-deva halant-deva by l-deva;
 	sub lla-deva halant-deva by ll-deva;
+	sub llla-deva halant-deva by lll-deva;
 	sub va-deva halant-deva by v-deva;
 	sub sha-deva halant-deva by sh-deva;
 	sub ssa-deva halant-deva by ss-deva;
 	sub sa-deva halant-deva by s-deva;
 	sub ha-deva halant-deva by h-deva;
+	sub qa-deva halant-deva by q-deva;
 	sub khha-deva halant-deva by khh-deva;
+	sub ghha-deva halant-deva by ghh-deva;
 	sub za-deva halant-deva by z-deva;
+	sub dddha-deva halant-deva by dddh-deva;
+	sub rha-deva halant-deva by rh-deva;
 	sub fa-deva halant-deva by f-deva;
+	sub yya-deva halant-deva by yy-deva;
 	sub la-deva.loclMAR halant-deva by l-deva.loclMAR;
 	sub sha-deva.loclMAR halant-deva by sh-deva.loclMAR;
 	sub jha-deva.np halant-deva by jh-deva.np;
@@ -728,15 +896,428 @@ tag = blws;
 {
 automatic = 1;
 code = "script dev2;
-# There is a problem with the font. Please fix all features and clicking the compile/test button.
+lookup Imatra1_devanagari {
+	lookupflag IgnoreMarks;
+	sub iMatra-deva' k-deva s-deva p_la-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva c-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva cha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' d-deva d_va-deva by iMatra-deva.35;
+	sub iMatra-deva' d_dha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' d-deva dh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' d_va-deva rakar-deva by iMatra-deva.30;
+	sub iMatra-deva' dd-deva dd_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ddh-deva ddh_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva bh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva d_va-deva by iMatra-deva.20;
+	sub iMatra-deva' g-deva dh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva dh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva l-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva n-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ga-deva rakar-deva halant-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva l-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' h-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva k-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva pa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva s-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva s-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva s-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva s-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ss-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ss-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ss-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' k_ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva t-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva tta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva v-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva t_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva da-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva h_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva k-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva l-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva th-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva ba-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva b-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva bha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva bh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva bh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva pa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva bh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva bh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva d_dha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva da-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva dha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva dh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva g-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva h_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva j_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva k-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva k_ssa-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva n-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva pa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva s-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva s-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva t-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva t_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva th-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva th-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ng_ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ng-deva k_ta-deva by iMatra-deva.35;
+	sub iMatra-deva' ny-deva c-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ny-deva j_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ny-deva sha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva s-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva t_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ra-deva halant-deva c-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva n-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva p_la-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva pa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva t-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva t_ya-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva th-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva tta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ss-deva ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ss_tta-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' t-deva k_la-deva by iMatra-deva.25;
+	sub iMatra-deva' t-deva ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva k_ssa-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva k-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' t_kha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva m-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva p_la-deva by iMatra-deva.20;
+	sub iMatra-deva' t-deva pa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva s-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' t_ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' t_t-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' tt-deva ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' va-deva rakar-deva halant-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' b-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' b-deva da-deva by iMatra-deva.30;
+	sub iMatra-deva' b-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' b-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' ba-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' bh-deva la-deva by iMatra-deva.30;
+	sub iMatra-deva' bh-deva na-deva by iMatra-deva.20;
+	sub iMatra-deva' bha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' bh-deva va-deva by iMatra-deva.20;
+	sub iMatra-deva' bh-deva ya-deva by iMatra-deva.20;
+	sub iMatra-deva' c-deva ca-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' ca-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' c-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' cha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ch-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' d-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' da-deva rakar-deva by iMatra-deva.30;
+	sub iMatra-deva' dd-deva bha-deva by iMatra-deva.35;
+	sub iMatra-deva' dda-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' dd-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' ddha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' dha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' dh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' fa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva ba-deva by iMatra-deva.30;
+	sub iMatra-deva' g-deva bha-deva by iMatra-deva.25;
+	sub iMatra-deva' g-deva da-deva by iMatra-deva.20;
+	sub iMatra-deva' g-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva ga-deva by iMatra-deva.20;
+	sub iMatra-deva' g-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva ka-deva by iMatra-deva.30;
+	sub iMatra-deva' g-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva ma-deva by iMatra-deva.20;
+	sub iMatra-deva' g-deva na-deva by iMatra-deva.25;
+	sub iMatra-deva' g-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' ga-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' g-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' g-deva ta-deva by iMatra-deva.25;
+	sub iMatra-deva' g-deva va-deva by iMatra-deva.30;
+	sub iMatra-deva' g-deva ya-deva by iMatra-deva.25;
+	sub iMatra-deva' gh-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva gha-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' gha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' gh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ha-deva rakar-deva by iMatra-deva.30;
+	sub iMatra-deva' j-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' j-deva jha-deva by iMatra-deva.35;
+	sub iMatra-deva' j-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' j-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' j-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' ja-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' j-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva ga-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva gha-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva jha-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' jha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' jh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva bha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ga-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva jha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva lla-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva pha-deva by iMatra-deva.35;
+	sub iMatra-deva' ka-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' k-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' kha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva ssa-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' kh-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva bha-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ca-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva da-deva by iMatra-deva.25;
+	sub iMatra-deva' l-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ga-deva by iMatra-deva.25;
+	sub iMatra-deva' l-deva ha-deva by iMatra-deva.25;
+	sub iMatra-deva' l-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva pha-deva by iMatra-deva.25;
+	sub iMatra-deva' la-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva tta-deva by iMatra-deva.25;
+	sub iMatra-deva' l-deva ttha-deva by iMatra-deva.25;
+	sub iMatra-deva' l-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' l-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ll-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' ll-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' ll-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva ba-deva by iMatra-deva.30;
+	sub iMatra-deva' m-deva bha-deva by iMatra-deva.25;
+	sub iMatra-deva' m-deva da-deva by iMatra-deva.20;
+	sub iMatra-deva' m-deva ha-deva by iMatra-deva.20;
+	sub iMatra-deva' m-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva ma-deva by iMatra-deva.30;
+	sub iMatra-deva' m-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva pa-deva by iMatra-deva.30;
+	sub iMatra-deva' ma-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' m-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' m-deva ta-deva by iMatra-deva.25;
+	sub iMatra-deva' m-deva va-deva by iMatra-deva.30;
+	sub iMatra-deva' m-deva ya-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva ba-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva ca-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva da-deva by iMatra-deva.20;
+	sub iMatra-deva' n-deva dda-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ga-deva by iMatra-deva.20;
+	sub iMatra-deva' n-deva ha-deva by iMatra-deva.20;
+	sub iMatra-deva' n-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva jha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ka-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ma-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva pa-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva pha-deva by iMatra-deva.20;
+	sub iMatra-deva' na-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' n-deva tta-deva by iMatra-deva.20;
+	sub iMatra-deva' n-deva ttha-deva by iMatra-deva.20;
+	sub iMatra-deva' n-deva va-deva by iMatra-deva.25;
+	sub iMatra-deva' n-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ng-deva ca-deva by iMatra-deva.35;
+	sub iMatra-deva' ng-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' nga-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ng-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva dddha-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' nna-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' nn-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ny-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' ny-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva da-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva dda-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva dha-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva jha-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva ka-deva by iMatra-deva.30;
+	sub iMatra-deva' p-deva lla-deva by iMatra-deva.25;
+	sub iMatra-deva' p-deva ma-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva na-deva by iMatra-deva.25;
+	sub iMatra-deva' p-deva nna-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva pa-deva by iMatra-deva.30;
+	sub iMatra-deva' p-deva pha-deva by iMatra-deva.20;
+	sub iMatra-deva' pa-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' p-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva ssa-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva ta-deva by iMatra-deva.30;
+	sub iMatra-deva' p-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' p-deva ttha-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva va-deva by iMatra-deva.20;
+	sub iMatra-deva' p-deva ya-deva by iMatra-deva.25;
+	sub iMatra-deva' ph-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva pha-deva by iMatra-deva.35;
+	sub iMatra-deva' pha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' ph-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva da-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva dda-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ddha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ja-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva na-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva pa-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva pha-deva by iMatra-deva.35;
+	sub iMatra-deva' sa-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ttha-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' s-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva ba-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva cha-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva kha-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' sha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva sha-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva ta-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva tta-deva by iMatra-deva.35;
+	sub iMatra-deva' sh-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' ss-deva ka-deva by iMatra-deva.20;
+	sub iMatra-deva' ss-deva ma-deva by iMatra-deva.20;
+	sub iMatra-deva' ss-deva nna-deva by iMatra-deva.25;
+	sub iMatra-deva' ss-deva pa-deva by iMatra-deva.20;
+	sub iMatra-deva' ss-deva va-deva by iMatra-deva.20;
+	sub iMatra-deva' t-deva ba-deva by iMatra-deva.25;
+	sub iMatra-deva' t-deva bha-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva ka-deva by iMatra-deva.25;
+	sub iMatra-deva' t-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva ma-deva by iMatra-deva.30;
+	sub iMatra-deva' t-deva pa-deva by iMatra-deva.25;
+	sub iMatra-deva' t-deva pha-deva by iMatra-deva.20;
+	sub iMatra-deva' ta-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' t-deva va-deva by iMatra-deva.25;
+	sub iMatra-deva' th-deva ka-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva ma-deva by iMatra-deva.35;
+	sub iMatra-deva' tha-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva tha-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva va-deva by iMatra-deva.35;
+	sub iMatra-deva' th-deva ya-deva by iMatra-deva.35;
+	sub iMatra-deva' tta-deva rakar-deva by iMatra-deva.20;
+	sub iMatra-deva' ttha-deva rakar-deva by iMatra-deva.20;
+	sub iMatra-deva' v-deva ha-deva by iMatra-deva.20;
+	sub iMatra-deva' v-deva la-deva by iMatra-deva.35;
+	sub iMatra-deva' va-deva rakar-deva by iMatra-deva.25;
+	sub iMatra-deva' v-deva sa-deva by iMatra-deva.35;
+	sub iMatra-deva' v-deva ya-deva by iMatra-deva.30;
+	sub iMatra-deva' v-deva va-deva by iMatra-deva.20;
+	sub iMatra-deva' ya-deva rakar-deva by iMatra-deva.35;
+	sub iMatra-deva' y-deva ya-deva by iMatra-deva.25;
+} Imatra1_devanagari;
 
 lookup Imatra2_devanagari {
 	sub [iMatra-deva]' [ra_uMatra-deva khh-deva kh-deva rr-deva rra-deva va-deva.post ra-deva ra_uuMatra-deva] by [iMatra-deva];
 	sub [iMatra-deva]' [fa-deva ph-deva f-deva ghha-deva tt_va-deva ha_uMatra-deva h_na-deva l_la-deva.loclMAR tt_ttha-deva tt_tta-deva d-deva tt_na-deva ha_uuMatra-deva pha-deva zha-deva.np d_ra-deva ttha-deva da-deva h_nna-deva gga-deva tth-deva ha-deva la-deva.loclMAR d_da-deva ph_la-deva tt-deva h_va-deva h_la-deva ga-deva ha_ra-deva tth_ttha-deva tta-deva] by [iMatra-deva.01];
-	sub [iMatra-deva]' [ss_tth_rakar-deva dd-deva ta_ra-deva dda-deva p_la-deva ssa-deva nga-deva d_va-deva ss_tt_rakar-deva pha_ra_nukta-deva ss_tta-deva ssa_ra-deva d_ga-deva da_rVocalicMatra-deva ng_gha-deva ddda-deva v_ra-deva ss_tt_va-deva ng_ka-deva ka_ra-deva.alt ng_ga-deva pa_ra-deva ng_kha-deva v_la-deva.loclMAR k-deva dd_ddha-deva ss_ttha-deva ddh_ddha-deva bba-deva ma-deva ga_ra-deva ng_k_ssa-deva dd_dda-deva ga_na-deva d_na-deva va-deva pha_ra-deva g_la-deva.loclMAR dd_gha-deva dddha-deva qa-deva ng_ma-deva ba-deva pa_ta-deva m_la-deva.loclMAR ma_ra-deva pa-deva dd_na-deva ka-deva] by [iMatra-deva.02];
+	sub [iMatra-deva]' [ss_tth_rakar-deva dd-deva dddh-deva ta_ra-deva dda-deva p_la-deva ssa-deva nga-deva d_va-deva ss_tt_rakar-deva pha_ra_nukta-deva ss_tta-deva ssa_ra-deva d_ga-deva da_rVocalicMatra-deva ng_gha-deva ddda-deva v_ra-deva ss_tt_va-deva ng_ka-deva ka_ra-deva.alt ng_ga-deva pa_ra-deva ng_kha-deva v_la-deva.loclMAR k-deva dd_ddha-deva ss_ttha-deva ddh_ddha-deva bba-deva ma-deva ga_ra-deva ng_k_ssa-deva dd_dda-deva ga_na-deva d_na-deva va-deva pha_ra-deva g_la-deva.loclMAR dd_gha-deva dddha-deva qa-deva ng_ma-deva q-deva ba-deva pa_ta-deva m_la-deva.loclMAR ma_ra-deva pa-deva dd_na-deva ka-deva] by [iMatra-deva.02];
 	sub [iMatra-deva]' [gh_la-deva.loclMAR ya-deva.post sha-deva.loclMAR ya-deva k_la-deva ta-deva bha-deva n_na-deva ya_ra-deva d_ba-deva ka_ra-deva jjya-deva na-deva t_n_ya-deva d_dha-deva p_tta-deva jha-deva.np lla-deva b_la-deva.loclMAR gha_ra-deva k_ta-deva nnna-deva na_ra-deva llla-deva t_ta-deva gha-deva yya-deva] by [iMatra-deva.03];
 	sub [iMatra-deva]' [ch_la-deva.loclMAR bh_la-deva.loclMAR dha_ra-deva nna-deva c_la-deva.loclMAR cha-deva nna_ra-deva jh-deva.np la-deva d_ya-deva ch_va-deva dha-deva tha-deva tha_ra-deva d_bha-deva] by [iMatra-deva.05];
-	sub [iMatra-deva]' [j_ja-deva.alt sh_na-deva ddha-deva jha-deva rha-deva k_ssa_ra-deva ja_nya_ra-deva sa-deva bha_ra-deva sha-deva ca-deva ddh-deva sha_matra_vocalicR-deva k_ssa-deva ca_ra-deva sa_ra-deva sh_ca-deva sha_ra-deva] by [iMatra-deva.08];
+	sub [iMatra-deva]' [j_ja-deva.alt sh_na-deva ddha-deva jha-deva rha-deva k_ssa_ra-deva ja_nya_ra-deva sa-deva bha_ra-deva sha-deva rh-deva ca-deva ddh-deva sha_matra_vocalicR-deva k_ssa-deva ca_ra-deva sa_ra-deva sh_ca-deva sha_ra-deva] by [iMatra-deva.08];
 	sub [iMatra-deva]' [zha-deva ja-deva dd_ma-deva ja_ra-deva za-deva sh_va-deva jja-deva h_ma-deva] by [iMatra-deva.10];
 	sub [iMatra-deva]' [h_ya-deva nya-deva jha_ra-deva nya_ra-deva n_ra-deva] by [iMatra-deva.15];
 	sub [iMatra-deva]' [n_d_ra-deva khha-deva t_rakar_ya-deva g_rakar_ya-deva j_ra-deva kha-deva z_ra-deva sh_la-deva kha_ra-deva kh_la-deva.loclMAR] by [iMatra-deva.20];
@@ -747,20 +1328,23 @@ lookup Imatra2_devanagari {
 
 lookup Iimatra_devanagari {
 	lookupflag IgnoreMarks;
-	sub [fa-deva khh-deva k_la-deva kh-deva pha_ra_nukta-deva ng_gha-deva ka_ra-deva ng_ka-deva pha-deva ng_ga-deva ng_kha-deva h_nna-deva ph_la-deva pha_ra-deva qa-deva ng_ma-deva k_ka-deva ka-deva] [iiMatra-deva]' by [iiMatra-deva.02];
+	sub [zha-deva] [iiMatra-deva]' by [iiMatra-deva.02];
 } Iimatra_devanagari;
 
 language MAR;
 lookup cjct_devanagari;
+lookup Imatra1_devanagari;
 lookup Imatra2_devanagari;
 lookup cjct_devanagari_MAR_alternates;
 lookup cjct_devanagari_MAR_cjct;
 
 script deva;
 lookup cjct_devanagari;
+lookup Imatra1_devanagari;
 lookup Imatra2_devanagari;
 language MAR;
 lookup cjct_devanagari;
+lookup Imatra1_devanagari;
 lookup Imatra2_devanagari;
 lookup cjct_devanagari_MAR_alternates;
 lookup cjct_devanagari_MAR_cjct;
@@ -3474,6 +4058,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Adieresismacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = A;
+},
+{
+pos = (612,0);
+ref = dieresiscomb_macroncomb.case;
+}
+);
+width = 1188;
+}
+);
+unicode = 478;
+},
+{
 color = 10;
 glyphname = Adotbelow;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -4989,6 +5592,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = AEmacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = AE;
+},
+{
+pos = (654,68);
+ref = macroncomb.case;
+}
+);
+width = 1662;
+}
+);
+unicode = 482;
+},
+{
 color = 6;
 glyphname = B;
 lastChange = "2023-01-18 12:56:57 +0000";
@@ -5312,6 +5934,25 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Bdotbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = B;
+},
+{
+pos = (540,0);
+ref = dotbelowcomb;
+}
+);
+width = 1031;
+}
+);
+unicode = 7684;
 },
 {
 color = 6;
@@ -13425,6 +14066,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Idieresisacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = I;
+},
+{
+pos = (375,0);
+ref = dieresiscomb_acutecomb.case;
+}
+);
+width = 676;
+}
+);
+unicode = 7726;
+},
+{
 color = 10;
 glyphname = Idotaccent;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -14420,6 +15080,24 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Jacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = J;
+},
+{
+pos = (481,68);
+ref = acutecomb.case;
+}
+);
+width = 792;
+}
+);
+},
+{
 color = 10;
 glyphname = Jcircumflex;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -14705,6 +15383,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Kcaron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (97,0);
+ref = caroncomb.case;
+}
+);
+width = 1005;
+}
+);
+unicode = 488;
+},
+{
 color = 10;
 glyphname = Kcommaaccent;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -14836,6 +15533,25 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Kmacronbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = K;
+},
+{
+pos = (552,0);
+ref = macronbelowcomb;
+}
+);
+width = 1005;
+}
+);
+unicode = 7732;
 },
 {
 color = 6;
@@ -15339,6 +16055,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Lcircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7740;
 },
 {
 color = 10;
@@ -16419,6 +17145,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Macute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = M;
+},
+{
+pos = (545,0);
+ref = acutecomb.case;
+}
+);
+width = 1276;
+}
+);
+unicode = 7742;
+},
+{
 color = 10;
 glyphname = Mdotaccent;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -17224,6 +17969,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Ncircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7754;
 },
 {
 color = 10;
@@ -19495,6 +20250,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Odieresismacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (665,0);
+ref = dieresiscomb_macroncomb.case;
+}
+);
+width = 1248;
+}
+);
+unicode = 554;
+},
+{
 color = 10;
 glyphname = Odotbelow;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -20847,6 +21621,52 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Omacronacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (212,86);
+ref = macroncomb.case;
+},
+{
+pos = (507,86);
+ref = acutecomb.case;
+}
+);
+width = 1248;
+}
+);
+unicode = 7762;
+},
+{
+glyphname = Omacrongrave;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (212,86);
+ref = macroncomb.case;
+},
+{
+pos = (507,86);
+ref = gravecomb.case;
+}
+);
+width = 1248;
+}
+);
+unicode = 7760;
+},
+{
 color = 10;
 glyphname = Oogonek;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -21135,6 +21955,24 @@ width = 1184;
 unicode = 216;
 },
 {
+glyphname = Oslashacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = Oslash;
+},
+{
+ref = acutecomb.case;
+}
+);
+width = 1184;
+}
+);
+unicode = 510;
+},
+{
 color = 10;
 glyphname = Otilde;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -21239,6 +22077,29 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Otildeacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = O;
+},
+{
+pos = (212,86);
+ref = tildecomb.case;
+},
+{
+pos = (507,86);
+ref = acutecomb.case;
+}
+);
+width = 1248;
+}
+);
+unicode = 7756;
 },
 {
 color = 6;
@@ -23384,6 +24245,16 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Saltillo;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 42891;
+},
+{
 color = 10;
 glyphname = Scaron;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -24767,6 +25638,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Tcircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7792;
 },
 {
 color = 10;
@@ -28639,6 +29520,16 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Vturned;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 581;
+},
+{
 color = 6;
 glyphname = W;
 lastChange = "2023-01-18 12:56:57 +0000";
@@ -30458,6 +31349,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = Ymacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = Y;
+},
+{
+pos = (11,68);
+ref = macroncomb.case;
+}
+);
+width = 798;
+}
+);
+unicode = 562;
+},
+{
 color = 10;
 glyphname = Ytilde;
 lastChange = "2023-01-18 12:57:06 +0000";
@@ -31300,6 +32210,61 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = Zmacronbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = Z;
+},
+{
+pos = (517,0);
+ref = macronbelowcomb;
+}
+);
+width = 960;
+}
+);
+unicode = 7828;
+},
+{
+glyphname = Lcommaaccent.loclMAH;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = L;
+},
+{
+pos = (158,-86);
+ref = commaaccentcomb;
+}
+);
+width = 891;
+}
+);
+},
+{
+glyphname = Ncommaaccent.loclMAH;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = N;
+},
+{
+pos = (305,0);
+ref = commaaccentcomb;
+}
+);
+width = 1076;
+}
+);
 },
 {
 color = 10;
@@ -33683,6 +34648,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = adieresismacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = a;
+},
+{
+pos = (539,0);
+ref = dieresiscomb_macroncomb;
+}
+);
+width = 1021;
+}
+);
+unicode = 479;
+},
+{
 color = 10;
 glyphname = adotbelow;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -35057,6 +36041,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = aemacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = ae;
+},
+{
+pos = (354,86);
+ref = macroncomb;
+}
+);
+width = 1646;
+}
+);
+unicode = 483;
+},
+{
 color = 6;
 glyphname = b;
 lastChange = "2023-01-18 12:56:57 +0000";
@@ -35342,6 +36345,25 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = bdotbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = b;
+},
+{
+pos = (481,0);
+ref = dotbelowcomb;
+}
+);
+width = 942;
+}
+);
+unicode = 7685;
 },
 {
 color = 6;
@@ -39417,6 +40439,25 @@ width = 998;
 unicode = 293;
 },
 {
+glyphname = hmacronbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = h;
+},
+{
+pos = (504,0);
+ref = macronbelowcomb;
+}
+);
+width = 998;
+}
+);
+unicode = 7830;
+},
+{
 color = 6;
 glyphname = i;
 lastChange = "2023-01-18 13:06:37 +0000";
@@ -40094,6 +41135,25 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = idieresisacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = idotless;
+},
+{
+pos = (220,0);
+ref = dieresiscomb_acutecomb;
+}
+);
+width = 400;
+}
+);
+unicode = 7727;
 },
 {
 color = 9;
@@ -41124,6 +42184,24 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = jacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = jdotless;
+},
+{
+pos = (81,-87);
+ref = acutecomb;
+}
+);
+width = 399;
+}
+);
+},
+{
 color = 10;
 glyphname = jcircumflex;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -41398,6 +42476,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = kcaron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (111,86);
+ref = caroncomb.case;
+}
+);
+width = 894;
+}
+);
+unicode = 489;
+},
+{
 color = 10;
 glyphname = kcommaaccent;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -41525,6 +42622,25 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = kmacronbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = k;
+},
+{
+pos = (473,0);
+ref = macronbelowcomb;
+}
+);
+width = 894;
+}
+);
+unicode = 7733;
 },
 {
 color = 6;
@@ -41816,6 +42932,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = lcircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7741;
 },
 {
 color = 10;
@@ -42748,6 +43874,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = macute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = m;
+},
+{
+pos = (582,-1);
+ref = acutecomb;
+}
+);
+width = 1496;
+}
+);
+unicode = 7743;
+},
+{
 color = 10;
 glyphname = mdotaccent;
 lastChange = "2023-01-18 13:08:35 +0000";
@@ -43429,6 +44574,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = ncircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7755;
 },
 {
 color = 10;
@@ -45653,6 +46808,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = odieresismacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (497,0);
+ref = dieresiscomb_macroncomb;
+}
+);
+width = 968;
+}
+);
+unicode = 555;
+},
+{
 color = 10;
 glyphname = odotbelow;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -47014,6 +48188,52 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = omacronacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (25,86);
+ref = macroncomb;
+},
+{
+pos = (339,-1);
+ref = acutecomb;
+}
+);
+width = 968;
+}
+);
+unicode = 7763;
+},
+{
+glyphname = omacrongrave;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (25,86);
+ref = macroncomb;
+},
+{
+pos = (339,-1);
+ref = gravecomb;
+}
+);
+width = 968;
+}
+);
+unicode = 7761;
+},
+{
 color = 10;
 glyphname = oogonek;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -47285,6 +48505,24 @@ width = 968;
 unicode = 248;
 },
 {
+glyphname = oslashacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = oslash;
+},
+{
+ref = acutecomb;
+}
+);
+width = 968;
+}
+);
+unicode = 511;
+},
+{
 color = 10;
 glyphname = otilde;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -47389,6 +48627,29 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = otildeacute;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = o;
+},
+{
+pos = (42,86);
+ref = tildecomb;
+},
+{
+pos = (339,-1);
+ref = acutecomb;
+}
+);
+width = 968;
+}
+);
+unicode = 7757;
 },
 {
 color = 6;
@@ -49332,6 +50593,16 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = saltillo;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 42892;
+},
+{
 color = 10;
 glyphname = scaron;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -50659,6 +51930,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = tcircumflexbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 7793;
 },
 {
 color = 10;
@@ -54608,6 +55889,16 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = vturned;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 652;
+},
+{
 color = 6;
 glyphname = w;
 lastChange = "2023-01-18 12:56:57 +0000";
@@ -56470,6 +57761,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = ymacron;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = y;
+},
+{
+pos = (-6,86);
+ref = macroncomb;
+}
+);
+width = 881;
+}
+);
+unicode = 563;
+},
+{
 color = 10;
 glyphname = ytilde;
 lastChange = "2023-01-18 13:00:44 +0000";
@@ -57228,6 +58538,25 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = zmacronbelow;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = z;
+},
+{
+pos = (448,0);
+ref = macronbelowcomb;
+}
+);
+width = 829;
+}
+);
+unicode = 7829;
+},
+{
 color = 10;
 glyphname = i.cy;
 lastChange = "2023-01-18 13:04:12 +0000";
@@ -57388,6 +58717,42 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = lcommaaccent.loclMAH;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = l;
+},
+{
+pos = (-11,199);
+ref = commaaccentcomb;
+}
+);
+width = 518;
+}
+);
+},
+{
+glyphname = ncommaaccent.loclMAH;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = n;
+},
+{
+pos = (263,32);
+ref = commaaccentcomb;
+}
+);
+width = 1005;
+}
+);
 },
 {
 color = 6;
@@ -83077,6 +84442,23 @@ width = 882;
 );
 },
 {
+glyphname = "nnn-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "n-deva";
+},
+{
+ref = "nukta-deva";
+}
+);
+width = 882;
+}
+);
+},
+{
 color = 6;
 glyphname = "p-deva";
 kernLeft = "pa-deva";
@@ -83695,6 +85077,24 @@ width = 1537;
 );
 },
 {
+glyphname = "lll-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "ll-deva";
+},
+{
+pos = (553,-200);
+ref = "nukta-deva";
+}
+);
+width = 1537;
+}
+);
+},
+{
 color = 6;
 glyphname = "v-deva";
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -84105,6 +85505,24 @@ width = 1264;
 );
 },
 {
+glyphname = "q-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "k-deva";
+},
+{
+pos = (-6,28);
+ref = "nukta-deva";
+}
+);
+width = 1391;
+}
+);
+},
+{
 color = 10;
 glyphname = "khh-deva";
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -84121,6 +85539,23 @@ ref = "nukta-deva";
 }
 );
 width = 1431;
+}
+);
+},
+{
+glyphname = "ghh-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "g-deva";
+},
+{
+ref = "nukta-deva";
+}
+);
+width = 793;
 }
 );
 },
@@ -84145,6 +85580,42 @@ width = 1129;
 );
 },
 {
+glyphname = "dddh-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "dd-deva";
+},
+{
+pos = (-92,-190);
+ref = "nukta-deva";
+}
+);
+width = 1379;
+}
+);
+},
+{
+glyphname = "rh-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "ddh-deva";
+},
+{
+pos = (-28,124);
+ref = "nukta-deva";
+}
+);
+width = 1617;
+}
+);
+},
+{
 color = 10;
 glyphname = "f-deva";
 kernLeft = "pa-deva";
@@ -84163,6 +85634,23 @@ ref = "nukta-deva";
 }
 );
 width = 1405;
+}
+);
+},
+{
+glyphname = "yy-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = "y-deva";
+},
+{
+ref = "nukta-deva";
+}
+);
+width = 815;
 }
 );
 },
@@ -94608,6 +96096,186 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = zero.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = one.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = two.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = three.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = four.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = five.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = six.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = seven.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = eight.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = nine.lf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = zero.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = one.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = two.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = three.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = four.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = five.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = six.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = seven.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = eight.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
+glyphname = nine.tf;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
 color = 6;
 glyphname = fraction;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -96261,6 +97929,36 @@ width = 0;
 unicode = 2417;
 },
 {
+glyphname = "glottalstop-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 2429;
+},
+{
+glyphname = "danda-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 2404;
+},
+{
+glyphname = "dbldanda-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 2405;
+},
+{
 color = 6;
 glyphname = "abbreviation-deva";
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -97707,6 +99405,16 @@ width = 767;
 unicode = 402;
 },
 {
+glyphname = "avagraha-deva";
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 2365;
+},
+{
 color = 6;
 glyphname = "om-deva";
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -97875,6 +99583,16 @@ width = 2411;
 }
 );
 unicode = 2384;
+},
+{
+glyphname = baht;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 3647;
 },
 {
 color = 6;
@@ -98392,6 +100110,36 @@ width = 1200;
 unicode = 124;
 },
 {
+glyphname = brokenbar;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 166;
+},
+{
+glyphname = dagger;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8224;
+},
+{
+glyphname = daggerdbl;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8225;
+},
+{
 color = 6;
 glyphname = rightFacingSvasti;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -98561,6 +100309,16 @@ width = 1200;
 unicode = 8364;
 },
 {
+glyphname = hryvnia;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8372;
+},
+{
 color = 6;
 glyphname = peseta;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -98665,6 +100423,16 @@ width = 1268;
 unicode = 8359;
 },
 {
+glyphname = ruble;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8381;
+},
+{
 color = 9;
 glyphname = rupeeIndian;
 lastChange = "2023-01-18 11:53:14 +0000";
@@ -98675,6 +100443,16 @@ width = 1200;
 }
 );
 unicode = 8377;
+},
+{
+glyphname = sheqel;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8362;
 },
 {
 color = 9;
@@ -99137,6 +100915,26 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = greaterequal;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8805;
+},
+{
+glyphname = lessequal;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8804;
+},
+{
 color = 10;
 glyphname = plusminus;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -99157,6 +100955,16 @@ width = 977;
 }
 );
 unicode = 177;
+},
+{
+glyphname = approxequal;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8776;
 },
 {
 color = 6;
@@ -99529,6 +101337,26 @@ width = 924;
 }
 );
 unicode = 8721;
+},
+{
+glyphname = radical;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8730;
+},
+{
+glyphname = partialdiff;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 8706;
 },
 {
 color = 6;
@@ -103182,6 +105010,23 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = gravecomb_macroncomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = gravecomb;
+},
+{
+ref = macroncomb;
+}
+);
+width = 408;
+}
+);
+},
+{
 color = 9;
 glyphname = acutecomb;
 lastChange = "2023-01-18 12:56:28 +0000";
@@ -103229,6 +105074,23 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = acutecomb_macroncomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = acutecomb;
+},
+{
+ref = macroncomb;
+}
+);
+width = 547;
+}
+);
 },
 {
 color = 9;
@@ -103708,6 +105570,40 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = macroncomb_gravecomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = macroncomb;
+},
+{
+ref = gravecomb;
+}
+);
+width = 899;
+}
+);
+},
+{
+glyphname = macroncomb_acutecomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = macroncomb;
+},
+{
+ref = acutecomb;
+}
+);
+width = 899;
+}
+);
+},
+{
 color = 6;
 glyphname = hookabovecomb;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -103766,6 +105662,26 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = candraBinducomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 784;
+},
+{
+glyphname = commaturnedabovecomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 786;
 },
 {
 color = 6;
@@ -103893,6 +105809,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = ringbelowcomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 805;
 },
 {
 color = 6;
@@ -104189,6 +106115,16 @@ com.typemytype.robofont.mark = (
 1
 );
 };
+},
+{
+glyphname = doublemacronbelowcomb;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 863;
 },
 {
 color = 6;
@@ -105983,6 +107919,15 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = commaaccentcomb.loclMAH;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+},
+{
 color = 6;
 glyphname = dieresis;
 lastChange = "2023-01-18 12:56:41 +0000";
@@ -106438,6 +108383,71 @@ com.typemytype.robofont.mark = (
 };
 },
 {
+glyphname = apostrophemod;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 700;
+},
+{
+glyphname = commareversedmod;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 701;
+},
+{
+glyphname = primemod;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+shapes = (
+{
+ref = minute;
+}
+);
+width = 508;
+}
+);
+unicode = 697;
+},
+{
+glyphname = ringhalfleft;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 703;
+},
+{
+glyphname = ringhalfright;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 702;
+},
+{
+glyphname = verticallinemod;
+layers = (
+{
+layerId = "81641B54-5DFF-4E7E-9A9F-73CB636BC82D";
+width = 1200;
+}
+);
+unicode = 712;
+},
+{
 color = 10;
 glyphname = Gtilde;
 lastChange = "2023-01-18 11:17:18 +0000";
@@ -106796,5 +108806,5 @@ value = "https://scripts.sil.org/OFL";
 );
 unitsPerEm = 2048;
 versionMajor = 2;
-versionMinor = 2;
+versionMinor = 3;
 }
