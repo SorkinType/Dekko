@@ -2,7 +2,7 @@
 
 ![Sample Image](documentation/image1.png)
 
-Dekko’s personality is both warm and casual. It originated with Modular InfoTech's 4948, and was modified to feel more written and regular in appearance and weight. The inter-letter spacing of the design is now wider, allowing for it to be used at smaller sizes on screens. Dekko also comes with a complete set of Latin which matches the Devanagari in weight and and size, and originates with Short Stack. Both the Devanagari and the Latin are based on written forms, and their stroke contrast has thick horizontals. The pen angles traditionally associated with Devanagari has some diagonal stress, but here the Latin script uses a vertical stress.
+Dekko is a modified version of the regular weight of Modular InfoTech's 4948. The new version appears somewhat more written and also more regular in appearance and weight. The spacing of the design is now wider allowing for it to be used at smaller sizes on screens. Dekko also comes with a complete set of Latin which matches the Devanagari in weight and and size. Both the Devanagari and the Latin are based on written forms. The contrast makes for think horizontals. The pen angles associated Deva has some diagonal stress. The Latin script Glyphs use a vertical stress. Dekko’s personality is both warmly casual.
 
 ![Sample Image](documentation/image2.png)
 ![Sample Image](documentation/image3.png)
