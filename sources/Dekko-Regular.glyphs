@@ -1,12 +1,6 @@
 {
 .appVersion = "3148";
 .formatVersion = 3;
-axes = (
-{
-name = Weight;
-tag = wght;
-}
-);
 classes = (
 {
 automatic = 1;
@@ -42,6 +36,17 @@ name = Uppercase;
 automatic = 1;
 code = "iMatra_anusvara-deva";
 name = DevaIMatraAnusvaras;
+}
+);
+customParameters = (
+{
+name = fsType;
+value = (
+);
+},
+{
+name = "Use Typo Metrics";
+value = 1;
 }
 );
 date = "2015-02-19 23:12:13 +0000";
@@ -880,9 +885,6 @@ tag = ss02;
 );
 fontMaster = (
 {
-axesValues = (
-150
-);
 customParameters = (
 {
 name = typoLineGap;
@@ -66401,9 +66403,6 @@ width = 770;
 );
 instances = (
 {
-axesValues = (
-150
-);
 instanceInterpolations = {
 "81641B54-5DFF-4E7E-9A9F-73CB636BC82D" = 1;
 };
@@ -66436,7 +66435,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright © 2014 Eben Sorkin. All rights reserved.";
+value = "Copyright 2014 The Dekko Project Authors (https://github.com/SorkinType/Dekko)";
 }
 );
 },
@@ -66457,9 +66456,43 @@ language = dflt;
 value = "Sorkin Type ";
 }
 );
+},
+{
+key = manufacturerURL;
+value = "http://sorkintype.com/";
+},
+{
+key = designerURL;
+value = "http://sorkintype.com/";
+},
+{
+key = licenses;
+values = (
+{
+language = dflt;
+value = "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL";
+}
+);
+},
+{
+key = vendorID;
+value = STC;
+},
+{
+key = trademarks;
+values = (
+{
+language = dflt;
+value = "Dekko is a trademark of Sorkin Type Co.";
+}
+);
+},
+{
+key = licenseURL;
+value = "https://scripts.sil.org/OFL";
 }
 );
 unitsPerEm = 2048;
-versionMajor = 1;
-versionMinor = 1;
+versionMajor = 2;
+versionMinor = 2;
 }
