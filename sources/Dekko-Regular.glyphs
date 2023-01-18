@@ -899,6 +899,26 @@ name = typoDescender;
 value = -1068;
 },
 {
+name = hheaAscender;
+value = 1902;
+},
+{
+name = hheaDescender;
+value = -1068;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 2231;
+},
+{
+name = winDescent;
+value = 1112;
+},
+{
 name = "Alignment Zones";
 value = (
 {
